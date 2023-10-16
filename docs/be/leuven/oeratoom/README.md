@@ -10,7 +10,7 @@ This application has been created to complement the great artwork, promoted by K
 
 Some screenshots:
 
-<img src="https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/screenshots_s.png" alt="Screenshots of the application" width="100%">
+<img src="https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/screenshots_s.png" alt="Screenshots of the application" width="100%">
 
 
 ## Privacy
@@ -19,7 +19,7 @@ This app is based on open data (mainly Wikidata) and automatic processing of the
 
 We care for your privacy. The app doesn't collect any personal data, so relax.
 
-Perhaps the content is inaccurate, so please [let us know](https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/issues/new) if you've spotted anything that might be enhanced. 
+Perhaps the content is inaccurate, so please [let us know](https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/issues/new) if you've spotted anything that might be enhanced. 
 
 ## Get involved
 
@@ -32,7 +32,7 @@ There are two resource types:
 - *images* (`./images/xxxxx.jpg`): light pictures in square format. If possible 1x1 ratio for homogenous look and feel; the lighter the better (50Kb per image would be fine).
 - *database* (`./data.json`): JSON file with the app's configuration (name, colors, privacy texts, etc.) and the points of interest you want to show in the app. 
 
-You can download it in your computer, modify the texts, or add a new element based on your knowledge. You can upload it directly (better a Pull Request if you are familiar with GitHub), or [raise an issue](https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/issues/new) to suggest the changes (please be explicit).
+You can download it in your computer, modify the texts, or add a new element based on your knowledge. You can upload it directly (better a Pull Request if you are familiar with GitHub), or [raise an issue](https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/issues/new) to suggest the changes (please be explicit).
 
 Note that there is a moderation process (just to avoid spam), so it may take some hours. Please, leave a note with the suggestion, so the editor may validate and confirm your changes.
 
@@ -51,7 +51,7 @@ Please, use the identifier of the point of interest you are referring to (see at
 
 The database is in a JSON file named `data.json` in the root directory of the project. 
 
-Please be sure that this document has the correct format (syntax and content). You can test it using any JSON schema validation tool against the JSON schema you can find in the repository ([schema.json](https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/schema.json)). 
+Please be sure that this document has the correct format (syntax and content). You can test it using any JSON schema validation tool against the JSON schema you can find in the repository ([schema.json](https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/schema.json)). 
 
 This JSON document contains two main parts, represented by the main keys of the root object:
 
@@ -68,7 +68,7 @@ Example of a project named `fr/paris` for the City of Paris:
         "app_title": "Oeratoom Leuven",
         "version": 3,
         "updated": "2022-08-26",
-        "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/data.json",
+        "source_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/data.json",
         "analytics_id": "1",
         "marketplace_url": ""
     },
@@ -135,12 +135,12 @@ The content language tags are objects with the following structure:
                     "brand": "#37423C",
                     "complementary": "#F99B93"
                 },
-                "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/tree/main/docs/oeratoom/",
+                "repository_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/tree/main/docs/oeratoom/",
                 "text_info": "In Leuven... Discover many interesting facts about the work of art and the universe while walking.",
                 "text_acknowledge": "This quick app is an open-source project powered by open data from the City of Leuven and enriched by Wikidata information. Most of the information was extracted from https://www.visitleuven.be/oeratoom and Wikimedia. You can find inaccuracies, so we apologize in advance.",
                 "text_feedback": "Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures. This app is created by locals and experts.",
-                "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/#get-involved",
-                "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/issues/new?template=update_request.md&title=Update+Request"
+                "feedback_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/#get-involved",
+                "issue_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/issues/new?template=update_request.md&title=Update+Request"
             },
             "pois": [
                 {
@@ -218,7 +218,7 @@ For instance,
 ``` json
 {
     //...
-    "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/issues/new?labels=sample&template=update_request.md&title=Update+request+of+"
+    "issue_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/issues/new?labels=sample&template=update_request.md&title=Update+request+of+"
     //...
 }
 ```
@@ -232,5 +232,5 @@ Note that the application will append the name of the point of interest at the e
 
 Just fork the repository and start sending your contributions. The code of the quick app is in the [`/quick-app`](../quick-app) folder of the repository. 
 
-Feel free to [raise issues](https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/issues/new) on the code.
+Feel free to [raise issues](https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/issues/new) on the code.
 

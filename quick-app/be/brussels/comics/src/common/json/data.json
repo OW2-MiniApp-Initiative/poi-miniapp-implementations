@@ -4,7 +4,7 @@
       "app_title": "BXL Comic Book Route",
       "version": 6,
       "updated": "2023-01-03",
-      "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/brussels/comics/data.json",
+      "source_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/brussels/comics/data.json",
       "matomo_base_url": "https://matomo.pbest.me/matomo.php?idsite=1&rec=1",
       "marketplace_url": "https://appgallery.huawei.com/app/C106421983",
       "native_ad_unit_id": "v9iwhfwfpx"
@@ -17,12 +17,12 @@
                   "complementary": "#ffffff"
               },
               "place": "Brussels",
-              "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/",
+              "repository_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/",
               "text_info": "This app is created by locals and experts with no commercial objectives. As you can see, it's also free of charge. Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures.",
               "text_acknowledge": "This quick app is an open-source project powered by Brussels Open Data and Wikidata and enriched by the community. Most of the information was extracted from Wikidata, OpenStreetMaps, and other public sources. You can find inaccuracies, so we apologize in advance.",
               "text_feedback": "Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures. This app is created by locals and experts.",
-              "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/brussels/comics/#get-involved",
-              "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/issues/new?labels=be/comics&template=update_request.md&title=Update+Request"
+              "feedback_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/brussels/comics/#get-involved",
+              "issue_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/issues/new?labels=be/comics&template=update_request.md&title=Update+Request"
           },
           "pois": [
               {

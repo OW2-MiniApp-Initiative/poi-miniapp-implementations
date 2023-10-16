@@ -4,7 +4,7 @@
       "app_title": "Paris Cultural Heritage",
       "version": 5,
       "updated": "2022-11-08",
-      "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/heritage/data.json",
+      "source_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/heritage/data.json",
       "matomo_base_url": "https://matomo.pbest.me/matomo.php?idsite=1&rec=1",
       "marketplace_url": "https://appgallery.huawei.com/app/C107281631"
   },
@@ -15,12 +15,12 @@
                 "brand": "#071F32",
                 "complementary": "#fafafa"
               },
-              "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/tree/main/docs/fr/paris/heritage",
+              "repository_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/tree/main/docs/fr/paris/heritage",
               "text_info": "This app is created by citizens and local experts based on crowdsourced data, so it is not official. As you can see, it's also free of charge. Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures.",
               "text_acknowledge": "This quick app is an open-source project powered by OpenStreetMap (OpenStreetMap® is open data, licensed under the Open Data Commons Open Database License -ODbL-by the OpenStreetMap Foundation). So this document with the database is also under the ODbL license. The initial pictures are provided by Wikidata, and other public sources and we have tried to give proper attribution to all the contributors. If you find inaccuracies, we apologize in advance, please let us know.",
               "text_feedback": "Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures.",
-              "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/trees#get-involved",
-              "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/issues/new?labels=fr/paris&template=update_request.md&title=Update+request+of+"
+              "feedback_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/trees#get-involved",
+              "issue_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/issues/new?labels=fr/paris&template=update_request.md&title=Update+request+of+"
           },
           "pois": 
           [
@@ -58,7 +58,7 @@
               "name" : "Studio des Acacias",
               "description" : "Space for artistic expression of the new French and international contemporary scene",
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/heritage/images/acacias.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/heritage/images/acacias.jpg"],
               "wikidata" : "Q28493848",
               "attributions": ["Data by OpenStreetMap® and Wikimedia"],
               "urls": ["https://www.openstreetmap.org/node/1986484618","tel:+33 1 58 05 49 83","https://studiodesacacias.com/fr"]
@@ -110,7 +110,7 @@
               "name" : "Tristan Bernard",
               "description" : "Artwork by Josette Hébert-Coëffin in Paris, France",
               "more" : "Artist: JH Coeffin",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/heritage/images/tristanbernard.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/heritage/images/tristanbernard.jpg"],
               "wikidata" : "Q23608361",
               "attributions": ["Data by OpenStreetMap® and Wikimedia"],
               "urls": ["https://www.openstreetmap.org/node/4294378829"]
@@ -162,7 +162,7 @@
               "name" : "invader",
               "description" : "French urban artist",
               "more" : "Artist: invader",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/heritage/images/invader.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/heritage/images/invader.jpg"],
               "wikidata" : "",
               "attributions": ["Data by OpenStreetMap® and Wikimedia", "Picture from Wikidata by KoS"],
               "urls": ["https://viaf.org/viaf/5305149198262074940000","https://id.loc.gov/authorities/no2010032958","https://www.openstreetmap.org/node/8601675118"]
@@ -266,7 +266,7 @@
               "name" : "La Femme",
               "description" : "(The Woman) statue by Daniel Bacqué gazing at the Eiffel Tower, the Gardens of the Trocadero ",
               "more" : "Artist: Daniel Bacqué",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/heritage/images/placeholder.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/heritage/images/placeholder.jpg"],
               "wikidata" : "Q23593355",
               "attributions": ["Data by OpenStreetMap® and Wikimedia"],
               "urls": ["https://www.openstreetmap.org/node/2680395492"]
@@ -370,7 +370,7 @@
               "name" : "Pomone",
               "description" : "Artwork by Robert Wlérick in Paris, France",
               "more" : "Artist: Robert Wlérick",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/heritage/images/placeholder.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/heritage/images/placeholder.jpg"],
               "wikidata" : "",
               "attributions": ["Data by OpenStreetMap® and Wikimedia"],
               "urls": ["https://www.openstreetmap.org/node/5310162926"]
@@ -383,7 +383,7 @@
               "name" : "Apollon Musagète",
               "description" : "Artwork in Paris, France",
               "more" : "Artist: Henri Bouchard",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/heritage/images/placeholder.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/heritage/images/placeholder.jpg"],
               "wikidata" : "",
               "attributions": ["Data by OpenStreetMap® and Wikimedia"],
               "urls": ["https://www.openstreetmap.org/node/5310162931"]
@@ -526,7 +526,7 @@
               "name" : "Jean-Baptiste Colbert - L'organisateur",
               "description" : "Artwork by Jacques Dumont in Paris, France",
               "more" : "Artist: Jacques-Edme Dumont",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/heritage/images/placeholder.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/heritage/images/placeholder.jpg"],
               "wikidata" : "Q23639983",
               "attributions": ["Data by OpenStreetMap® and Wikimedia"],
               "urls": ["https://www.openstreetmap.org/node/2387435777"]
@@ -643,7 +643,7 @@
               "name" : "Le messager",
               "description" : "Artwork by Ossip Zadkine in Paris, France",
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/heritage/images/placeholder.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/heritage/images/placeholder.jpg"],
               "wikidata" : "Q23639903",
               "attributions": ["Data by OpenStreetMap® and Wikimedia"],
               "urls": ["https://www.openstreetmap.org/node/2849998818"]
@@ -669,7 +669,7 @@
               "name" : "Musée d'Histoire contemporaine",
               "description" : "Museum in France",
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/heritage/images/placeholder.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/heritage/images/placeholder.jpg"],
               "wikidata" : "Q2023744",
               "attributions": ["Data by OpenStreetMap® and Wikimedia"],
               "urls": ["https://viaf.org/viaf/133230299","https://id.loc.gov/authorities/n88629859","https://www.openstreetmap.org/node/3303412972","tel:+33144425491","http://www.bdic.fr/"]
@@ -721,7 +721,7 @@
               "name" : "Galerie Félix Vercel",
               "description" : "Art gallery since in 1968",
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/heritage/images/placeholder.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/heritage/images/placeholder.jpg"],
               "wikidata" : "",
               "attributions": ["Data by OpenStreetMap® and Wikimedia"],
               "urls": ["https://www.openstreetmap.org/node/4050195011","https://galeriefelixvercel.com/"]
@@ -890,7 +890,7 @@
               "name" : "Bouquet of Tulips",
               "description" : "Sculpture by Jeff Koons",
               "more" : "Artist: Jeff Koons",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/heritage/images/placeholder.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/heritage/images/placeholder.jpg"],
               "wikidata" : "Q47686171",
               "attributions": ["Data by OpenStreetMap® and Wikimedia"],
               "urls": ["https://www.openstreetmap.org/node/6864791894"]
@@ -929,7 +929,7 @@
               "name" : "Perrotin",
               "description" : "Contemporary art gallery founded in 1990 by Emmanuel Perrotin, at the age of 21",
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/heritage/images/placeholder.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/heritage/images/placeholder.jpg"],
               "wikidata" : "",
               "attributions": ["Data by OpenStreetMap® and Wikimedia"],
               "urls": ["https://www.openstreetmap.org/node/8363975522","tel:+33 1 83 62 51 64"]
@@ -942,7 +942,7 @@
               "name" : "Galerie Hopkins",
               "description" : "Impressionist, modern and contemporary paintings and sculptures",
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/heritage/images/placeholder.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/heritage/images/placeholder.jpg"],
               "wikidata" : "",
               "attributions": ["Data by OpenStreetMap® and Wikimedia"],
               "urls": ["https://www.openstreetmap.org/node/8363975523","tel:+33 1 42 25 32 32"]
@@ -955,7 +955,7 @@
               "name" : "Galerie Laurent Strouk",
               "description" : "The Laurent Strouk gallery presents American and European pop art artists",
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/heritage/images/placeholder.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/heritage/images/placeholder.jpg"],
               "wikidata" : "",
               "attributions": ["Data by OpenStreetMap® and Wikimedia"],
               "urls": ["https://www.openstreetmap.org/node/8363975524","tel:+33 1 40 46 89 06","http://www.laurentstrouk.com/"]
@@ -968,7 +968,7 @@
               "name" : "Invader",
               "description" : "French urban artist",
               "more" : "Artist: Invader",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/heritage/images/invader.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/heritage/images/invader.jpg"],
               "wikidata" : "",
               "attributions": ["Data by OpenStreetMap® and Wikimedia", "Picture from Wikidata by KoS"],
               "urls": ["https://viaf.org/viaf/5305149198262074940000","https://id.loc.gov/authorities/no2010032958","https://www.openstreetmap.org/node/8693376417"]
@@ -994,7 +994,7 @@
               "name" : "Galerie Gagosian",
               "description" : "Contemporary art gallery that exhibits some of the most influential artists of the 20th and 21st centuries",
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/heritage/images/placeholder.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/heritage/images/placeholder.jpg"],
               "wikidata" : "",
               "attributions": ["Data by OpenStreetMap® and Wikimedia"],
               "urls": ["https://www.openstreetmap.org/node/9142815907","https://gagosian.com/locations/paris/"]
@@ -1072,7 +1072,7 @@
               "name" : "Le Globe symbolique",
               "description" : "Monument, on the piazza of UNESCO in Paris",
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/heritage/images/placeholder.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/heritage/images/placeholder.jpg"],
               "wikidata" : "Q3223122",
               "attributions": ["Data by OpenStreetMap® and Wikimedia"],
               "urls": ["https://www.openstreetmap.org/node/4680186199"]
@@ -1111,7 +1111,7 @@
               "name" : "History Group Store",
               "description" : "Travel agency in Paris",
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/heritage/images/placeholder.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/heritage/images/placeholder.jpg"],
               "wikidata" : "",
               "attributions": ["Data by OpenStreetMap® and Wikimedia"],
               "urls": ["https://www.openstreetmap.org/node/7064900146"]
@@ -1150,12 +1150,12 @@
                 "brand": "#071F32",
                 "complementary": "#fafafa"
             },
-            "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/tree/main/docs/fr/paris/heritage",
+            "repository_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/tree/main/docs/fr/paris/heritage",
             "text_info": "Cette application est créée par des citoyens et des experts locaux sur la base de données participatives, elle n'est donc pas officielle. Comme vous pouvez le voir, c'est aussi gratuit. Veuillez nous faire savoir si vous souhaitez contribuer avec votre expérience, enrichir le contenu, corriger des inexactitudes ou soumettre des photos.",
             "text_acknowledge": "Cette quick app est un projet open-source alimenté par OpenStreetMap (OpenStreetMap® est une donnée ouverte, sous licence Open Data Commons Open Database License -ODbL-par la Fondation OpenStreetMap). Ce document avec la base de données est donc également sous licence ODbL. Les images initiales sont fournies par Wikidata et d'autres sources publiques et nous avons essayé de donner une attribution appropriée à tous les contributeurs. Si vous trouvez des inexactitudes, nous nous en excusons par avance, veuillez nous en informer.",
             "text_feedback": "Veuillez nous faire savoir si vous souhaitez contribuer avec votre expérience, enrichir le contenu, corriger des inexactitudes ou soumettre des photos. Cette application est créée par des habitants et des experts.",
-            "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/heritage#get-involved",
-            "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/issues/new?labels=fr/paris&template=update_request.md&title=Update+request+of+"
+            "feedback_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/heritage#get-involved",
+            "issue_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/issues/new?labels=fr/paris&template=update_request.md&title=Update+request+of+"
         },
         "pois": 
         [
@@ -1193,7 +1193,7 @@
             "name" : "Studio des Acacias",
             "description" : "Espace d’expression artistique de la nouvelle scène contemporaine française et internationale",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/heritage/images/acacias.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/heritage/images/acacias.jpg"],
             "wikidata" : "Q28493848",
             "attributions": ["Data by OpenStreetMap® and Wikimedia"],
             "urls": ["https://www.openstreetmap.org/node/1986484618","tel:+33 1 58 05 49 83","https://studiodesacacias.com/fr"]
@@ -1245,7 +1245,7 @@
             "name" : "Monument à Tristan Bernard",
             "description" : "Œuvre de Josette Hébert-Coëffin à Paris, France",
             "more" : "Artiste: JH Coeffin",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/heritage/images/tristanbernard.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/heritage/images/tristanbernard.jpg"],
             "wikidata" : "Q23608361",
             "attributions": ["Data by OpenStreetMap® and Wikimedia"],
             "urls": ["https://www.openstreetmap.org/node/4294378829"]
@@ -1297,7 +1297,7 @@
             "name" : "Invader",
             "description" : "Artiste urbain français",
             "more" : "Artiste: invader",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/heritage/images/invader.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/heritage/images/invader.jpg"],
             "wikidata" : "",
             "attributions": ["Data by OpenStreetMap® and Wikimedia", "Picture from Wikidata by KoS"],
             "urls": ["https://viaf.org/viaf/5305149198262074940000","https://id.loc.gov/authorities/no2010032958","https://www.openstreetmap.org/node/8601675118"]
@@ -1401,7 +1401,7 @@
             "name" : "La Femme",
             "description" : "Statue de Daniel Bacqué regardant la Tour Eiffel, les Jardins du Trocadéro",
             "more" : "Artiste: Daniel Bacqué",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/heritage/images/placeholder.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/heritage/images/placeholder.jpg"],
             "wikidata" : "Q23593355",
             "attributions": ["Data by OpenStreetMap® and Wikimedia"],
             "urls": ["https://www.openstreetmap.org/node/2680395492"]
@@ -1505,7 +1505,7 @@
             "name" : "Pomone",
             "description" : "Œuvre de Robert Wlérick à Paris, France (1937)",
             "more" : "Artiste: Robert Wlérick",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/heritage/images/placeholder.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/heritage/images/placeholder.jpg"],
             "wikidata" : "",
             "attributions": ["Data by OpenStreetMap® and Wikimedia"],
             "urls": ["https://www.openstreetmap.org/node/5310162926"]
@@ -1518,7 +1518,7 @@
             "name" : "Apollon musagète",
             "description" : "Sculpture d'Henri Bouchard, érigée à Paris, France (1937)",
             "more" : "Artiste: Henri Bouchard",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/heritage/images/placeholder.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/heritage/images/placeholder.jpg"],
             "wikidata" : "",
             "attributions": ["Data by OpenStreetMap® and Wikimedia"],
             "urls": ["https://www.openstreetmap.org/node/5310162931"]
@@ -1557,7 +1557,7 @@
             "name" : "History Group Store",
             "description" : "Agence de voyage à Paris",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/heritage/images/placeholder.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/heritage/images/placeholder.jpg"],
             "wikidata" : "",
             "attributions": ["Data by OpenStreetMap® and Wikimedia"],
             "urls": ["https://www.openstreetmap.org/node/7064900146"]
@@ -1674,7 +1674,7 @@
             "name" : "Jean-Baptiste Colbert",
             "description" : "Œuvre de Jacques Dumont à Paris, France",
             "more" : "Artiste: Jacques-Edme Dumont",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/heritage/images/placeholder.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/heritage/images/placeholder.jpg"],
             "wikidata" : "Q23639983",
             "attributions": ["Data by OpenStreetMap® and Wikimedia"],
             "urls": ["https://www.openstreetmap.org/node/2387435777"]
@@ -1791,7 +1791,7 @@
             "name" : "Le Messager",
             "description" : "Œuvre d'Ossip Zadkine à Paris, France",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/heritage/images/placeholder.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/heritage/images/placeholder.jpg"],
             "wikidata" : "Q23639903",
             "attributions": ["Data by OpenStreetMap® and Wikimedia"],
             "urls": ["https://www.openstreetmap.org/node/2849998818"]
@@ -1817,7 +1817,7 @@
             "name" : "Musée d'Histoire contemporaine",
             "description" : "Musée français",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/heritage/images/placeholder.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/heritage/images/placeholder.jpg"],
             "wikidata" : "Q2023744",
             "attributions": ["Data by OpenStreetMap® and Wikimedia"],
             "urls": ["https://viaf.org/viaf/133230299","https://id.loc.gov/authorities/n88629859","https://www.openstreetmap.org/node/3303412972","tel:+33144425491","http://www.bdic.fr/"]
@@ -1869,7 +1869,7 @@
             "name" : "Galerie Félix Vercel",
             "description" : "Galerie d'art depuis 1968",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/heritage/images/placeholder.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/heritage/images/placeholder.jpg"],
             "wikidata" : "",
             "attributions": ["Data by OpenStreetMap® and Wikimedia"],
             "urls": ["https://www.openstreetmap.org/node/4050195011","https://galeriefelixvercel.com/"]
@@ -2038,7 +2038,7 @@
             "name" : "Bouquet de Tulipes",
             "description" : "Sculpture de Jeff Koons (2019)",
             "more" : "Artiste: Jeff Koons",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/heritage/images/placeholder.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/heritage/images/placeholder.jpg"],
             "wikidata" : "Q47686171",
             "attributions": ["Data by OpenStreetMap® and Wikimedia"],
             "urls": ["https://www.openstreetmap.org/node/6864791894"]
@@ -2077,7 +2077,7 @@
             "name" : "Perrotin",
             "description" : "Contemporary art gallery founded in 1990 by Emmanuel Perrotin, at the age of 21",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/heritage/images/placeholder.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/heritage/images/placeholder.jpg"],
             "wikidata" : "",
             "attributions": ["Data by OpenStreetMap® and Wikimedia"],
             "urls": ["https://www.openstreetmap.org/node/8363975522","tel:+33 1 83 62 51 64"]
@@ -2090,7 +2090,7 @@
             "name" : "Galerie Hopkins",
             "description" : "Tableaux et sculptures impressionnistes, modernes et contemporains",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/heritage/images/placeholder.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/heritage/images/placeholder.jpg"],
             "wikidata" : "",
             "attributions": ["Data by OpenStreetMap® and Wikimedia"],
             "urls": ["https://www.openstreetmap.org/node/8363975523","tel:+33 1 42 25 32 32"]
@@ -2103,7 +2103,7 @@
             "name" : "Galerie Laurent Strouk",
             "description" : "La galerie Laurent Strouk présente des artistes du pop art américain et européen",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/heritage/images/placeholder.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/heritage/images/placeholder.jpg"],
             "wikidata" : "",
             "attributions": ["Data by OpenStreetMap® and Wikimedia"],
             "urls": ["https://www.openstreetmap.org/node/8363975524","tel:+33 1 40 46 89 06","http://www.laurentstrouk.com/"]
@@ -2142,7 +2142,7 @@
             "name" : "Galerie Gagosian",
             "description" : "Galerie d'art contemporain qui expose certains des artistes les plus influents des 20e et 21e siècles",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/heritage/images/placeholder.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/heritage/images/placeholder.jpg"],
             "wikidata" : "",
             "attributions": ["Data by OpenStreetMap® and Wikimedia"],
             "urls": ["https://www.openstreetmap.org/node/9142815907","https://gagosian.com/locations/paris/"]
@@ -2220,7 +2220,7 @@
             "name" : "Le Globe symbolique",
             "description" : "Sculpture française",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/heritage/images/placeholder.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/heritage/images/placeholder.jpg"],
             "wikidata" : "Q3223122",
             "attributions": ["Data by OpenStreetMap® and Wikimedia"],
             "urls": ["https://www.openstreetmap.org/node/4680186199"]

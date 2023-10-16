@@ -4,7 +4,7 @@
       "app_title": "Oeratoom Leuven",
       "version": 7,
       "updated": "2022-10-18",
-      "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/data.json",
+      "source_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/data.json",
       "analytics_id": "1",
       "marketplace_url": "https://appgallery.huawei.com/app/C106950887"
   },
@@ -15,12 +15,12 @@
                   "brand": "#37423C",
                   "complementary": "#F99B93"
               },
-              "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/",
+              "repository_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/",
               "text_info": "In Leuven, the universe is at your feet. Did you know that the big bang theory was written in Leuven? Professor Georges Lemaître launched this revolutionary theory about the Big Bang in 1931 at the University of Leuven. As a tribute, there is a new city artwork. It is called 'Oer Atom' and it transforms the inner city into a universe. Discover many interesting facts about the work of art and the universe while walking.",
               "text_acknowledge": "This quick app is an open-source project powered by open data from the City of Leuven and enriched by Wikidata information. Most of the information was extracted from https://www.visitleuven.be/oeratoom and Wikimedia. You can find inaccuracies, so we apologize in advance.",
               "text_feedback": "Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures. This app is created by locals and experts.",
-              "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/#get-involved",
-              "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/issues/new?labels=be/oeratoomtemplate=update_request.md&title=Update+Request"
+              "feedback_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/#get-involved",
+              "issue_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/issues/new?labels=be/oeratoomtemplate=update_request.md&title=Update+Request"
           },
           "pois": 
           [
@@ -41,7 +41,7 @@
               "catalogue" : "2557",
               "quora" : "Andromeda-Galaxy-3",
               "more" : "",
-              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Andromeda_Galaxy_560mm_FL.jpg/600px-Andromeda_Galaxy_560mm_FL.jpg","https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med32.jpg"],
+              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Andromeda_Galaxy_560mm_FL.jpg/600px-Andromeda_Galaxy_560mm_FL.jpg","https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med32.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q2469", 
               "urls": []
@@ -63,7 +63,7 @@
               "catalogue" : "5818",
               "quora" : "Triangulum-Galaxy",
               "more" : "",
-              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/M33.jpg/600px-M33.jpg","https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med30.jpg"],
+              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/M33.jpg/600px-M33.jpg","https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med30.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q13724", 
               "urls": []
@@ -151,7 +151,7 @@
               "catalogue" : "46153",
               "quora" : null,
               "more" : "",
-              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/M63s.jpg/640px-M63s.jpg","https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med31.jpg"],
+              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/M63s.jpg/640px-M63s.jpg","https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med31.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q13981", 
               "urls": []
@@ -173,7 +173,7 @@
               "catalogue" : "42407",
               "quora" : null,
               "more" : "",
-              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/M104_ngc4594_sombrero_galaxy_hi-res.jpg/600px-M104_ngc4594_sombrero_galaxy_hi-res.jpg","https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med29.jpg"],
+              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/M104_ngc4594_sombrero_galaxy_hi-res.jpg/600px-M104_ngc4594_sombrero_galaxy_hi-res.jpg","https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med29.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q91461627", 
               "urls": []
@@ -217,7 +217,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Ngc5866_hst_big.png/600px-Ngc5866_hst_big.png", "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med27.jpg"],
+              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Ngc5866_hst_big.png/600px-Ngc5866_hst_big.png", "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med27.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q14374", 
               "urls": []
@@ -239,7 +239,7 @@
               "catalogue" : "41361",
               "quora" : null,
               "more" : "",
-              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/M87_jet.jpg/600px-M87_jet.jpg","https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med28.jpg"],
+              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/M87_jet.jpg/600px-M87_jet.jpg","https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med28.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q14041", 
               "urls": []
@@ -261,7 +261,7 @@
               "catalogue" : "5663",
               "quora" : null,
               "more" : "",
-              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/NGC_0584SST.jpg/600px-NGC_0584SST.jpg","https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med33.jpg"],
+              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/NGC_0584SST.jpg/600px-NGC_0584SST.jpg","https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med33.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q852522", 
               "urls": []
@@ -283,7 +283,7 @@
               "catalogue" : "51978",
               "quora" : null,
               "more" : "",
-              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/NGC5676_-_SDSS_DR14.jpg/600px-NGC5676_-_SDSS_DR14.jpg","https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med34.jpg"],
+              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/NGC5676_-_SDSS_DR14.jpg/600px-NGC5676_-_SDSS_DR14.jpg","https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med34.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q1121955", 
               "urls": []
@@ -305,7 +305,7 @@
               "catalogue" : "45868",
               "quora" : null,
               "more" : "",
-              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/NGC_5010.jpg/600px-NGC_5010.jpg","https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med26.jpg"],
+              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/NGC_5010.jpg/600px-NGC_5010.jpg","https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med26.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q46915", 
               "urls": []
@@ -327,7 +327,7 @@
               "catalogue" : "45683",
               "quora" : null,
               "more" : "",
-              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Galaxy.ap19.2003.750pix.jpg/600px-Galaxy.ap19.2003.750pix.jpg", "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med35.jpg"],
+              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Galaxy.ap19.2003.750pix.jpg/600px-Galaxy.ap19.2003.750pix.jpg", "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med35.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q1247983", 
               "urls": []
@@ -393,7 +393,7 @@
               "catalogue" : "44715",
               "quora" : null,
               "more" : "",
-              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Ssc2007-10a1.jpg/600px-Ssc2007-10a1.jpg","https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/Q754715.jpg"],
+              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Ssc2007-10a1.jpg/600px-Ssc2007-10a1.jpg","https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/Q754715.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q754715", 
               "urls": []
@@ -415,7 +415,7 @@
               "catalogue" : "44539",
               "quora" : null,
               "more" : "",
-              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Knots_and_bursts_NGC_4860_and_NGC_4858.jpg/600px-Knots_and_bursts_NGC_4860_and_NGC_4858.jpg","https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med37.jpg"],
+              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Knots_and_bursts_NGC_4860_and_NGC_4858.jpg/600px-Knots_and_bursts_NGC_4860_and_NGC_4858.jpg","https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med37.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q1115026", 
               "urls": []
@@ -437,7 +437,7 @@
               "catalogue" : "2248",
               "quora" : null,
               "more" : "",
-              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Cartwheel_Galaxy.jpg/600px-Cartwheel_Galaxy.jpg","https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med25.jpg"],
+              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Cartwheel_Galaxy.jpg/600px-Cartwheel_Galaxy.jpg","https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med25.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q1208155", 
               "urls": []
@@ -503,7 +503,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/HDFSJ223248.47-603204.2.png", "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med18.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/HDFSJ223248.47-603204.2.png", "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med18.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q76314568", 
               "urls": []
@@ -547,7 +547,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://in-the-sky.org/image.php?style=medium&userimg=19910715_115720_1cb1f254d55d.png","https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med24.jpg"],
+              "images" : ["https://in-the-sky.org/image.php?style=medium&userimg=19910715_115720_1cb1f254d55d.png","https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med24.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q6770568", 
               "urls": []
@@ -569,7 +569,7 @@
               "catalogue" : "54167",
               "quora" : "Ic-1101",
               "more" : "",
-              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IC_1101_in_Abell_2029_(hst_06228_03_wfpc2_f702w_pc).jpg/600px-IC_1101_in_Abell_2029_(hst_06228_03_wfpc2_f702w_pc).jpg", "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med23.jpg"],
+              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IC_1101_in_Abell_2029_(hst_06228_03_wfpc2_f702w_pc).jpg/600px-IC_1101_in_Abell_2029_(hst_06228_03_wfpc2_f702w_pc).jpg", "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med23.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q754936", 
               "urls": []
@@ -591,7 +591,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med19.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/UrsaMajorCC.jpg/600px-UrsaMajorCC.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med19.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/UrsaMajorCC.jpg/600px-UrsaMajorCC.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q90668437", 
               "urls": []
@@ -613,7 +613,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/MGC34158.png","https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med38.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/MGC34158.png","https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med38.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q74667635", 
               "urls": []
@@ -635,7 +635,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med3.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BootesCC.jpg/600px-BootesCC.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med3.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BootesCC.jpg/600px-BootesCC.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q90422942", 
               "urls": []
@@ -657,7 +657,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med56.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Sculptor_constellation_map.svg/600px-Sculptor_constellation_map.svg.png"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med56.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Sculptor_constellation_map.svg/600px-Sculptor_constellation_map.svg.png"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q88528871", 
               "urls": []
@@ -679,7 +679,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/LEDA1941847.png","https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med13.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/LEDA1941847.png","https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med13.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": null, 
               "urls": []
@@ -701,7 +701,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med17.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/OrionCC.jpg/600px-OrionCC.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med17.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/OrionCC.jpg/600px-OrionCC.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q89842543", 
               "urls": []
@@ -745,7 +745,7 @@
               "catalogue" : "38885",
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med16.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/VirgoCC.jpg/600px-VirgoCC.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med16.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/VirgoCC.jpg/600px-VirgoCC.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q1109476", 
               "urls": []
@@ -767,7 +767,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med12.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/DracoCC.jpg/600px-DracoCC.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med12.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/DracoCC.jpg/600px-DracoCC.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q80671882", 
               "urls": []
@@ -789,7 +789,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med46.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/UrsaMajorCC.jpg/600px-UrsaMajorCC.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med46.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/UrsaMajorCC.jpg/600px-UrsaMajorCC.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q79886733", 
               "urls": []
@@ -811,7 +811,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/GMASS2550.png","https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med63.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/GMASS2550.png","https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med63.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": null, 
               "urls": []
@@ -833,7 +833,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med10.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Sculptor_constellation_map.svg/600px-Sculptor_constellation_map.svg.png"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med10.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Sculptor_constellation_map.svg/600px-Sculptor_constellation_map.svg.png"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q93393897", 
               "urls": []
@@ -855,7 +855,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/CometGalaxy.jpg/600px-CometGalaxy.jpg", "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med21.jpg"],
+              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/CometGalaxy.jpg/600px-CometGalaxy.jpg", "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med21.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q195136", 
               "urls": []
@@ -877,7 +877,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med57.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Aquarius_constellation_map.png/676px-Aquarius_constellation_map.png"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med57.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Aquarius_constellation_map.png/676px-Aquarius_constellation_map.png"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q86559073", 
               "urls": []
@@ -899,7 +899,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med2.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Sculptor_constellation_map.svg/600px-Sculptor_constellation_map.svg.png"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med2.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Sculptor_constellation_map.svg/600px-Sculptor_constellation_map.svg.png"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q95378753", 
               "urls": []
@@ -943,7 +943,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/LEDA2832077.png","https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med41.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/LEDA2832077.png","https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med41.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": null, 
               "urls": []
@@ -965,7 +965,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med42.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Constellation_Fornax.jpg/600px-Constellation_Fornax.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med42.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Constellation_Fornax.jpg/600px-Constellation_Fornax.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q88247408", 
               "urls": []
@@ -987,7 +987,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/cowie139.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/cowie139.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": null, 
               "urls": []
@@ -1009,7 +1009,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/GMASS2055.png","https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med44.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/GMASS2055.png","https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med44.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": null, 
               "urls": []
@@ -1031,7 +1031,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BootesCC.jpg/600px-BootesCC.jpg","https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med49.jpg"],
+              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BootesCC.jpg/600px-BootesCC.jpg","https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med49.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q92717678", 
               "urls": []
@@ -1053,7 +1053,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med47.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/AquariusCC.jpg/600px-AquariusCC.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med47.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/AquariusCC.jpg/600px-AquariusCC.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q86559147", 
               "urls": []
@@ -1075,7 +1075,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/OGC1312.png"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/OGC1312.png"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": null, 
               "urls": []
@@ -1097,7 +1097,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med5.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med5.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": null, 
               "urls": []
@@ -1119,7 +1119,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med1.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/OrionCC.jpg/600px-OrionCC.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med1.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/OrionCC.jpg/600px-OrionCC.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q89842536", 
               "urls": []
@@ -1141,7 +1141,7 @@
               "catalogue" : "11583",
               "quora" : null,
               "more" : "",
-              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/NGC_1204_DSS.jpg/600px-NGC_1204_DSS.jpg","https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med53.jpg"],
+              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/NGC_1204_DSS.jpg/600px-NGC_1204_DSS.jpg","https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med53.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q1042122", 
               "urls": []
@@ -1163,7 +1163,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/NGC_2699_DSS.jpg/600px-NGC_2699_DSS.jpg","https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med15.jpg"],
+              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/NGC_2699_DSS.jpg/600px-NGC_2699_DSS.jpg","https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med15.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q746922", 
               "urls": []
@@ -1185,7 +1185,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med20.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med20.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q75388181", 
               "urls": []
@@ -1229,7 +1229,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med14.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Sculptor_constellation_map.svg/600px-Sculptor_constellation_map.svg.png"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med14.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Sculptor_constellation_map.svg/600px-Sculptor_constellation_map.svg.png"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q87638256", 
               "urls": []
@@ -1295,7 +1295,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med52.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med52.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": null, 
               "urls": []
@@ -1317,7 +1317,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med9.jpg",
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med9.jpg",
                 "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Sculptor_constellation_map.svg/600px-Sculptor_constellation_map.svg.png"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q95378769", 
@@ -1340,7 +1340,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med6.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Constellation_Fornax.jpg/600px-Constellation_Fornax.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med6.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Constellation_Fornax.jpg/600px-Constellation_Fornax.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q87887430", 
               "urls": []
@@ -1362,7 +1362,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med50.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med50.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": null, 
               "urls": []
@@ -1384,7 +1384,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med7.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med7.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": null, 
               "urls": []
@@ -1406,7 +1406,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/UDFj-39546284-hs-2011-05-c.jpg/600px-UDFj-39546284-hs-2011-05-c.jpg", "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med48.jpg"],
+              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/UDFj-39546284-hs-2011-05-c.jpg/600px-UDFj-39546284-hs-2011-05-c.jpg", "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med48.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q1192149", 
               "urls": []
@@ -1428,7 +1428,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/MACS0647-JD.JPG/600px-MACS0647-JD.JPG","https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med60.jpg"],
+              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/MACS0647-JD.JPG/600px-MACS0647-JD.JPG","https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med60.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q73688", 
               "urls": []
@@ -1494,7 +1494,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med58.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/UrsaMajorCC.jpg/600px-UrsaMajorCC.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med58.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/UrsaMajorCC.jpg/600px-UrsaMajorCC.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q88651478", 
               "urls": []
@@ -1516,7 +1516,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/MDR201840.png","https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med39.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/MDR201840.png","https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med39.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": null, 
               "urls": []
@@ -1560,7 +1560,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/MDR201824.png"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/MDR201824.png"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": null, 
               "urls": []
@@ -1604,7 +1604,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med61.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med61.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": null, 
               "urls": []
@@ -1626,7 +1626,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med11.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Sculptor_constellation_map.svg/600px-Sculptor_constellation_map.svg.png"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med11.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Sculptor_constellation_map.svg/600px-Sculptor_constellation_map.svg.png"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q92851165", 
               "urls": []
@@ -1670,7 +1670,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med4.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/UrsaMajorCC.jpg/600px-UrsaMajorCC.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med4.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/UrsaMajorCC.jpg/600px-UrsaMajorCC.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q79902625", 
               "urls": []
@@ -1692,7 +1692,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med40.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Sculptor_constellation_map.svg/600px-Sculptor_constellation_map.svg.png"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med40.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Sculptor_constellation_map.svg/600px-Sculptor_constellation_map.svg.png"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q95664977", 
               "urls": []
@@ -1714,7 +1714,7 @@
               "catalogue" : "10545",
               "quora" : null,
               "more" : "",
-              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/NGC_1102_DSS.jpg/600px-NGC_1102_DSS.jpg","https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med54.jpg"],
+              "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/NGC_1102_DSS.jpg/600px-NGC_1102_DSS.jpg","https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med54.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q1041553", 
               "urls": []
@@ -1758,7 +1758,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med8.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/AquariusCC.jpg/600px-AquariusCC.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med8.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/AquariusCC.jpg/600px-AquariusCC.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q83080057", 
               "urls": []
@@ -1780,7 +1780,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med22.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TaurusCC.jpg/600px-TaurusCC.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med22.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TaurusCC.jpg/600px-TaurusCC.jpg"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q87464615", 
               "urls": []
@@ -1802,7 +1802,7 @@
               "catalogue" : null,
               "quora" : null,
               "more" : "",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/oeratoom/images/med36.jpg","https://doc-04-1s-mymaps.googleusercontent.com/untrusted/hostedimage/cgh7qu1lg0nkbq93v7rer3ervs/71qgh9sj0i774gnm0hsb034s74/1651765550500/nPhs2AzUICQpw3ip7dH_h5H7FyIKiBs1/08567622088935991095/5AIsG_vYWEk1I0xCozC45t6CG5zYA-fSz4FxaFMEXVdloCKnkwqHZe7Da39eNlEGVP0jTkTW1gPwenuepMs9utLuuiFLg45d9P8HUSixGTfMSCXbIIU3xms4DWYBwdmF82l_4XrI48mPGjhU963nQ45YDi-fFAjECmPhLtfn5BgqoICHLOKnEtJtng246e9Je6hwbovjE?session=0&fife"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/oeratoom/images/med36.jpg","https://doc-04-1s-mymaps.googleusercontent.com/untrusted/hostedimage/cgh7qu1lg0nkbq93v7rer3ervs/71qgh9sj0i774gnm0hsb034s74/1651765550500/nPhs2AzUICQpw3ip7dH_h5H7FyIKiBs1/08567622088935991095/5AIsG_vYWEk1I0xCozC45t6CG5zYA-fSz4FxaFMEXVdloCKnkwqHZe7Da39eNlEGVP0jTkTW1gPwenuepMs9utLuuiFLg45d9P8HUSixGTfMSCXbIIU3xms4DWYBwdmF82l_4XrI48mPGjhU963nQ45YDi-fFAjECmPhLtfn5BgqoICHLOKnEtJtng246e9Je6hwbovjE?session=0&fife"],
               "attributions": ["Source: visitleuven.be/oeratoom", "Wikimeda, Wikimedia Commons", "Caltech or AAO/ROE" ],
               "wikidata": "Q3151690", 
               "urls": []

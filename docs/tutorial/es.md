@@ -23,8 +23,8 @@ Contenidos:
 
 ## <a name='Enlacesrpidos'></a>Enlaces rápidos
 
-- Repositorio con las implementaciones de referencia y las plantillas: https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations
-- Documentación del proyecto: https://github.com/ow2-quick-app-initiative/poi-quick-app
+- Repositorio con las implementaciones de referencia y las plantillas: https://github.com/ow2-quick-app-initiative/poi-miniapp-implementations
+- Documentación del proyecto: https://github.com/ow2-miniapp-initiative/poi-miniapp
 
 ## <a name='Pre-requisitos:'></a>Pre-requisitos:
 
@@ -58,10 +58,10 @@ Para probar Open Refine, ejecuta la app y accede a la aplicación desde el naveg
 
 ## <a name='Paso1.Obtnelcdigofuenteylasplantillas'></a>Paso 1. Obtén el código fuente y las plantillas 
 
-Clona el [repositorio principal](https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations) en tu cuenta en Github (puedes usar la plataforma que prefieras, por supuesto). Para ello, [necesitas una cuenta](https://github.com/login).
+Clona el [repositorio principal](https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations) en tu cuenta en Github (puedes usar la plataforma que prefieras, por supuesto). Para ello, [necesitas una cuenta](https://github.com/login).
 
-Una vez has introducido tu contraseña en Github, vete al repositorio con los ejemplos ([poi-quick-app-implementations](https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations)) y pulsa el botón de usar plantilla (_Use this template_). Crea un __nuevo repositorio__ en tu espacio personal y ya tendrás acceso a todos los ejemplos y plantillas. 
-- Puedes darle el nombre que quieras o simplemente usa el mismo, `poi-quick-app-implementations`.
+Una vez has introducido tu contraseña en Github, vete al repositorio con los ejemplos ([poi-miniapp-implementations](https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations)) y pulsa el botón de usar plantilla (_Use this template_). Crea un __nuevo repositorio__ en tu espacio personal y ya tendrás acceso a todos los ejemplos y plantillas. 
+- Puedes darle el nombre que quieras o simplemente usa el mismo, `poi-miniapp-implementations`.
 - Selecciona incluir todas las ramas del repositorio principal.
 
 Vete a las opciones del proyecto que acabas de crear y activa la publicación del contenido (usando _Pages_):
@@ -88,19 +88,19 @@ Desde la página principal de nuestro repositorio:
 
 Para comenzar a trabajar en tu equipo, necesitas clonar el repositorio que acabas de crear en tu cuenta. 
 
-Vete a la sección principal del repositorio, en el botón desplegable etiquetado como código (_<> code_) verás la URL que identifica tu repositorio. Será algo así como `https://github.com/tu-usuario/poi-quick-app.git` (reemplaza `tu_usuario` por el nombre asociado a tu cuenta).
+Vete a la sección principal del repositorio, en el botón desplegable etiquetado como código (_<> code_) verás la URL que identifica tu repositorio. Será algo así como `https://github.com/tu-usuario/poi-miniapp.git` (reemplaza `tu_usuario` por el nombre asociado a tu cuenta).
 
 Clona el repositorio en tu equipo. 
 
 Desde la linea de comandos:
 
 ````bash
-git clone https://github.com/tu_usuario/poi-quick-app-implementations.git 
+git clone https://github.com/tu_usuario/poi-miniapp-implementations.git 
 ````
 
-En el directorio `poi-quick-app-implementations/docs/` que se acaba de crear tienes acceso a ejemplos y plantillas para la __base de datos__ y el código base por defecto de la app. 
+En el directorio `poi-miniapp-implementations/docs/` que se acaba de crear tienes acceso a ejemplos y plantillas para la __base de datos__ y el código base por defecto de la app. 
 
-Las plantillas que modificarás están en `poi-quick-app-implementations/docs/sample`. 
+Las plantillas que modificarás están en `poi-miniapp-implementations/docs/sample`. 
 
 Renombra el directorio `sample` con un nombre intuitivo y simple que describa tu proyecto, o el lugar al que aplica. Trabajarás sobre ese directorio para crear la nueva aplicación.
 
@@ -108,7 +108,7 @@ Renombra el directorio `sample` con un nombre intuitivo y simple que describa tu
 
 Este proyecto permite representar puntos de interés de cualquier temática, por lo que necesitamos crear un conjunto de datos adecuado con la información que podemos representar en la app.
 
-La lista de puntos de interés está descrita en formato JSON (en `poi-quick-app-implementations/docs/sample/data.json`). Cada punto de interés es un objeto que tiene los siguientes miembros:
+La lista de puntos de interés está descrita en formato JSON (en `poi-miniapp-implementations/docs/sample/data.json`). Cada punto de interés es un objeto que tiene los siguientes miembros:
 
 ````json
 {
@@ -118,8 +118,8 @@ La lista de puntos de interés está descrita en formato JSON (en `poi-quick-app
     "type": "estatua",
     "name": "Estatua Don Pelayo",
     "images": [
-        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_1.jpg",
-        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_2.jpg"
+        "https://ow2-miniapp-initiative.github.io/poi-miniapp/sample/images/uniqueID_1.jpg",
+        "https://ow2-miniapp-initiative.github.io/poi-miniapp/sample/images/uniqueID_2.jpg"
     ],
     "description": "Descripción del lugar o cosa",
     "more": "Más información si lo deseas (opcional)",
@@ -141,7 +141,7 @@ Por lo tanto, necesitas una lista de registros con los siguientes attributos:
 - `images` (array de textos) con las URLs de la imagen o imágenes relacionadas. Array vacío si no tiene.
 - `urls`  (array de textos) con las URLs complementarias del punto de interés.
 
-Si lo prefieres, puedes usar una plantilla en formato CSV (`poi-quick-app-implementations/docs/sample/template_database.csv`).
+Si lo prefieres, puedes usar una plantilla en formato CSV (`poi-miniapp-implementations/docs/sample/template_database.csv`).
 
 ### <a name='Refinatuconjuntodedatos'></a>Refina tu conjunto de datos
 
@@ -205,7 +205,7 @@ El resultado es un array de puntos de interés para cargar directamente en el do
 
 ## <a name='Paso3.Configuracindelaapp'></a>Paso 3. Configuración de la app
 
-En el directorio con las plantillas y código (`poi-quick-app-web`) encontrarás:
+En el directorio con las plantillas y código (`poi-miniapp-web`) encontrarás:
 - `docs/sample` con las plantillas de ejemplo para tu app.  
 - `quick-app/` con el código base de ejemplo de una MiniApp.
 
@@ -221,7 +221,7 @@ En el directorio con las plantillas y código (`poi-quick-app-web`) encontrarás
         "app_title": "Monumentos de Gijón",
         "version": 1,
         "updated": "2023-03-09",
-        "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/monumentos-gijon/data.json",
+        "source_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/monumentos-gijon/data.json",
         "matomo_base_url": "https://matomo.pbest.me/matomo.php?idsite=1&rec=1",        
         "marketplace_url": ""
     }
@@ -239,18 +239,18 @@ En el directorio con las plantillas y código (`poi-quick-app-web`) encontrarás
                     "brand": "#B11623",
                     "complementary": "#FAFAFA"
                 },
-                "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/tree/main/docs/es/gijon",
+                "repository_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp/tree/main/docs/es/gijon",
                 "text_info": "This app is created by locals and experts. As you can see, it's also free of charge. Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures.",
                 "text_acknowledge": "This quick app is an open-source project powered by open data and enriched by the community. Most of the information was extracted from Wikidata, OpenStreetMaps, and other public sources. You can find inaccuracies, so we apologize in advance.",
                 "text_feedback": "Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures. This app is created by locals and experts.",
-                "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/#get-involved",
-                "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/issues/new?labels=country/city&template=update_request.md&title=Update+Request"
+                "feedback_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp/sample/#get-involved",
+                "issue_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp/issues/new?labels=country/city&template=update_request.md&title=Update+Request"
             },
 ```
 
 El array correspondiente a la clave `pois`, es donde podrás pegar la lista de los puntos de interés.
 
-Puedes comprobar que el formato es correcto, validando `data.json` contra el [esquema JSON](https://ow2-quick-app-initiative.github.io/poi-quick-app/schema.json). 
+Puedes comprobar que el formato es correcto, validando `data.json` contra el [esquema JSON](https://ow2-miniapp-initiative.github.io/poi-miniapp/schema.json). 
 
 
 ## <a name='Paso4.Publicacinenlaweb'></a>Paso 4. Publicación en la web
@@ -258,7 +258,7 @@ Puedes comprobar que el formato es correcto, validando `data.json` contra el [es
 Puedes usar Github y sus opciones de publicación para exponer la base de datos y la configuración que acabas de crear. 
 
 ````bash 
-cd poi-quick-app-implementations
+cd poi-miniapp-implementations
 git add .
 git commit -m 'Primera versión de mi light app'
 git push origin main
@@ -267,7 +267,7 @@ git push origin main
 Puedes comprobar si las acciones de publicación se han ejecutado correctamente.
 
 Si todo va bien podrás ver la base de datos que has creado desde un navegador web en una dirección como 
-`https://tu-usuario.github.io/poi-quick-app-implementations/sample/data.json` 
+`https://tu-usuario.github.io/poi-miniapp-implementations/sample/data.json` 
 
 
 ## <a name='Paso5.Cargalaconfiguracinybasededatosenlaapp'></a>Paso 5. Carga la configuración y base de datos en la app 
@@ -284,13 +284,13 @@ Puedes descargar la app en tu equipo.
 Desde la linea de comandos:
 
 ````bash
-git clone https://github.com/ow2-quick-app-initiative/poi-quick-app-web.git 
+git clone https://github.com/ow2-miniapp-initiative/poi-miniapp-web.git 
 ````
 
-- en el directorio recién creado, `poi-quick-app-web`, tienes la (meta-)applicación-web que te permitirá visualizar el resultado de tu app. 
+- en el directorio recién creado, `poi-miniapp-web`, tienes la (meta-)applicación-web que te permitirá visualizar el resultado de tu app. 
 
 ````bash
-cd poi-quick-app-web 
+cd poi-miniapp-web 
 npm install
 npm run dev  
 ````
@@ -299,7 +299,7 @@ Abre tu navegador y accede a la app: http://127.0.0.1:3000/
 
 Incluye el documento de configuración que has creado como un parámetro en la URL:
 
-http://127.0.0.1:3000/_/?url=https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/de/eckernforde/data.json
+http://127.0.0.1:3000/_/?url=https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/de/eckernforde/data.json
 
 
 ### <a name='Usandoheritagein.info'></a>Usando heritagein.info  
@@ -308,5 +308,5 @@ Puedes probar la configuración en heritagein.info.
 
 Para ello, comprueba que el fichero de configuración es correcto, copia la URL al documento en la web y pégalo como un parámetro en la URL, de la ruta `/_/` como en el siguiente ejemplo:
 
-https://heritagein.info/_/?url=https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/sample/data.json
+https://heritagein.info/_/?url=https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/sample/data.json
 

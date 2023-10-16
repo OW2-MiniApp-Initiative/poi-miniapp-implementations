@@ -4,7 +4,7 @@
         "app_title": "Monumental Trees in Paris",
         "version": 1,
         "updated": "2022-10-19",
-        "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/trees/data.json",
+        "source_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/trees/data.json",
         "matomo_base_url": "https://matomo.pbest.me/matomo.php?idsite=1&rec=1",
         "marketplace_url": ""
     },
@@ -15,12 +15,12 @@
                     "brand": "#B8DC3C",
                     "complementary": "#4C49A2"
                 },
-                "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/tree/main/docs/fr/paris/trees",
+                "repository_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/tree/main/docs/fr/paris/trees",
                 "text_info": "This app is created by local experts, so it is not official. As you can see, it's also free of charge. Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures.",
                 "text_acknowledge": "This quick app is an open-source project powered by Paris Open Data and enriched by the community. Most of the information was extracted from Paris Open Data, Wikidata, and other public sources. You can find inaccuracies, so we apologize in advance.",
                 "text_feedback": "Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures. This app is created by locals and experts.",
-                "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/trees#get-involved",
-                "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/issues/new?labels=fr/paris&template=update_request.md&title=Update+request+of+"
+                "feedback_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/trees#get-involved",
+                "issue_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/issues/new?labels=fr/paris&template=update_request.md&title=Update+request+of+"
             },
             "pois": 
             [

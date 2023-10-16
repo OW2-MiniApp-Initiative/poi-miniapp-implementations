@@ -4,7 +4,7 @@
       "app_title": "Antwerpen Middelheimmuseum",
       "version": 6,
       "updated": "2022-10-03",
-      "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/data.json",
+      "source_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/data.json",
       "matomo_base_url": "https://matomo.pbest.me/matomo.php?idsite=1&rec=1",
       "marketplace_url": ""
   },
@@ -15,12 +15,12 @@
                   "brand": "#9ce668",
                   "complementary": "#00ccf6"
               },
-              "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/tree/main/docs/be/antwerpen/middelheimmuseum/",
+              "repository_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/tree/main/docs/be/antwerpen/middelheimmuseum/",
               "text_info": "This app is created by locals and experts. As you can see, it's also free of charge. Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures. Please, note that it's not an official app.",
               "text_acknowledge": "This quick app is an open-source project powered by open data and enriched by the community. Most of the information was extracted from public sources. You can find inaccuracies, so we apologize in advance.",
               "text_feedback": "Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures. This app is created by locals and experts.",
-              "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/#get-involved",
-              "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/issues/new?labels=be/middelheimmuseum&template=update_request.md&title=Update+Request"
+              "feedback_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/#get-involved",
+              "issue_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/issues/new?labels=be/middelheimmuseum&template=update_request.md&title=Update+Request"
           },
          "pois" : [
           {
