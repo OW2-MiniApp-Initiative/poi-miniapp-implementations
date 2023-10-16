@@ -4,7 +4,7 @@
         "app_title": "Best of Kos",
         "version": 3,
         "updated": "2023-06-04",
-        "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/data.json",
+        "source_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/data.json",
         "matomo_base_url": "https://matomo.pbest.me/matomo.php?idsite=1&rec=1",        
         "marketplace_url": ""
     },
@@ -15,12 +15,12 @@
                     "brand": "#67DAD7",
                     "complementary": "#BDF067"
                 },
-                "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/tree/main/docs/gr/kos",
+                "repository_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/tree/main/docs/gr/kos",
                 "text_info": "This app is based on crowdsourcing. As you can see, it's also free of charge. Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures.",
                 "text_acknowledge": "This quick app is an open-source project powered by open data and enriched by the community. Most of the information was extracted from Wikidata, OpenStreetMaps, and other public sources. You can find inaccuracies, so we apologize in advance.",
                 "text_feedback": "Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures.",
-                "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/#get-involved",
-                "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/issues/new?labels=gr/kos&template=update_request.md&title=Update+Request"
+                "feedback_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/#get-involved",
+                "issue_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/issues/new?labels=gr/kos&template=update_request.md&title=Update+Request"
             },
             "pois": [
               {
@@ -49,13 +49,13 @@
                 "description": "Kos Town Castle is a medieval fortress located in the heart of Kos Town.",
                 "more": "Built by the Knights of Saint John in the 14th century, the castle served as a defensive structure to protect the town. Visitors can explore the castle's walls, towers, and enjoy panoramic views of the town and the Aegean Sea.",
                 "images": [
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/castle0.jpg",
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/castle1.jpg",
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/castle2.jpg",
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/castle3.jpg",
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/castle4.jpg",
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/castle5.jpg",
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/castle6.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/castle0.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/castle1.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/castle2.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/castle3.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/castle4.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/castle5.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/castle6.jpg",
                   "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Antimachia.JPG/640px-Antimachia.JPG",
                   "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Kos-Nerantzia_Castle-03ESD.jpg/581px-Kos-Nerantzia_Castle-03ESD.jpg"
                 ],
@@ -76,8 +76,8 @@
                 "description": "The Hippocrates Ancient Plane Tree is a famous landmark located in Kos Town.",
                 "more": "According to legend, this tree was planted by Hippocrates, the ancient Greek physician and the father of medicine. It is a symbol of his teachings and attracts visitors who seek a connection to the history of medicine.",
                 "images": [
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/tree0.jpg",
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/tree1.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/tree0.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/tree1.jpg",
                   "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Plane_tree_of_Hippocrates.jpg/640px-Plane_tree_of_Hippocrates.jpg"
                 ],
                 "urls": [
@@ -96,13 +96,13 @@
                 "description": "The Ancient Agora of Kos is an archaeological site in Kos Town.",
                 "more": "It was the central marketplace and social hub in ancient times. Visitors can explore the ruins of the ancient buildings, including stoas, temples, and statues, and get a glimpse into the vibrant life of the ancient city.",
                 "images": [
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/agora0.jpg",
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/agora1.jpg",
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/agora2.jpg",
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/agora8.jpg",
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/agora9.jpg",
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/agora10.jpg",
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/agora11.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/agora0.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/agora1.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/agora2.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/agora8.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/agora9.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/agora10.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/agora11.jpg",
                   "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Old_ruins_Kos_1.jpg/640px-Old_ruins_Kos_1.jpg"
                 ],
                 "urls": [
@@ -139,8 +139,8 @@
                 "description": "Kos Marina is a vibrant harbor located in the heart of Kos Town.",
                 "more": "It is a popular destination for yacht owners and offers a range of facilities and services. Visitors can enjoy waterfront dining, stroll along the promenade, and soak in the scenic views of the marina, boats, and the Aegean Sea.",
                 "images": [
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/marina0.jpg",
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/marina1.jpg"
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/marina0.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/marina1.jpg"
                 ],
                 "urls": [
                   "https://kos.gr/kos-island/kos-marina"
@@ -195,14 +195,14 @@
                 "description": "Casa Romana is a Roman villa located in Kos Town.",
                 "more": "This well-preserved archaeological site showcases a luxurious Roman residence from the 2nd century AD. Visitors can explore the various rooms, courtyards, and mosaic floors, and get a glimpse into the lifestyle of the wealthy inhabitants of ancient Kos.",
                 "images": [
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/romana0.jpg",
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/romana2.jpg",
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/romana1.jpg",
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/romana3.jpg",
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/romana4.jpg",
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/romana5.jpg",
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/romana6.jpg",
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/romana7.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/romana0.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/romana2.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/romana1.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/romana3.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/romana4.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/romana5.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/romana6.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/romana7.jpg",
                   "https://kos.gr/img/asset/YXNzZXRzL2ltYWdlcy9wYWdlcy9tb251bWVudHMvY2FzYXJvbWFuYS9HTVNfNTg1MGNhc2Fyb21hbmFfbW9udW1lbnRzLmpwZw==?p=large&s=58d6b7b9b7ef4184aea32d396aa7b390"
                 ],
                 "urls": [
@@ -239,9 +239,9 @@
                 "description": "Hippocrates Square is a central square in Kos Town, named after the famous physician Hippocrates.",
                 "more": "Surrounded by charming cafes, restaurants, and shops, the square is a vibrant hub of activity. It features a statue of Hippocrates and serves as a gathering place for locals and visitors to relax, socialize, and enjoy the lively atmosphere.",
                 "images": [
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/square0.jpg",
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/square1.jpg",
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/square2.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/square0.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/square1.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/square2.jpg",
                   "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Plane_tree_of_Hippocrates.jpg/640px-Plane_tree_of_Hippocrates.jpg"
                 ],
                 "urls": [
@@ -278,7 +278,7 @@
                 "description": "Tigaki Beach is a popular sandy beach located in the village of Tigaki.",
                 "more": "With its crystal-clear waters and golden sand, Tigaki Beach is a popular spot for sunbathing, swimming, and water sports. The beach is well-organized with sunbeds, umbrellas, and beachfront taverns, offering visitors a relaxing and enjoyable seaside experience.",
                 "images": [
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/tingaki.jpg",                  
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/tingaki.jpg",                  
                   "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tingaki_Beach_%28273378828%29.jpg/640px-Tingaki_Beach_%28273378828%29.jpg"
                 ],
                 "urls": [
@@ -352,13 +352,13 @@
                 "description": "Plaka Forest is a natural forest located in the southeastern part of Kos.",
                 "more": "Covering an area of lush greenery and diverse flora, Plaka Forest is a haven for nature enthusiasts. Visitors can explore the forest through hiking trails, enjoy peaceful picnics, and admire the natural beauty of the surroundings. The forest is home to various plant species and offers a serene escape from the bustling city.",
                 "images": [
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/plaka0.jpg",
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/plaka1.jpg",
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/plaka2.jpg",
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/plaka3.jpg",
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/plaka4.jpg",
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/plaka5.jpg",
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/plaka6.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/plaka0.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/plaka1.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/plaka2.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/plaka3.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/plaka4.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/plaka5.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/plaka6.jpg",
                   "https://kos.gr/img/asset/YXNzZXRzL2ltYWdlcy9wYWdlcy9uYXR1cmFsX2JlYXV0eS9wbGFrYS9EU0NGODA4Ny0zLmpwZw==?p=large&s=f1a35fea204d58ce71de99c3b0170f07"
                 ],
                 "urls": [
@@ -466,9 +466,9 @@
                 "description": "Tingaki Salt Lake is a natural salt lake located near Tingaki village in Kos.",
                 "more": "The salt lake is a significant habitat for various bird species and a popular spot for birdwatching enthusiasts. Visitors can observe a diverse range of birdlife, including flamingos, herons, and sandpipers. The serene environment and the scenic beauty of the lake make it an ideal place for nature lovers and photography enthusiasts.",
                 "images": [
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/salt0.jpg",
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/salt1.jpg",
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/salt2.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/salt0.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/salt1.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/salt2.jpg",
                   "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kos_Alikes_lake_1.jpg/640px-Kos_Alikes_lake_1.jpg"
                 ],
                 "urls": [
@@ -505,10 +505,10 @@
                 "description": "The Temple of Apollo is considered to be the island’s most ancient temple and second in richness after the Asklepieion",
                 "more": "It links the city of Alasarna to the cult of Apollo which is older than that of Asklepios. The Bavarian archaeologist Ludwig Ross was the first to identify the archaeological site with the ancient town of Alasarna.",
                 "images": [
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/apollo0.jpg",
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/apollo1.jpg",
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/apollo2.jpg",
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/apollo3.jpg"
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/apollo0.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/apollo1.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/apollo2.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/apollo3.jpg"
                 ],
                 "urls": [
                   "https://www.discoveringkos.com/destination-item/alasarna/"
@@ -526,8 +526,8 @@
                 "description": "The Tomb of Harmylos",
                 "more": "The Tomb of Harmylos is, in fact, a family mausoleum with 12 graves, 6 symmetrically enclosed on the walls on each site of a narrow corridor. The monument dates from the Hellenistic period and is presumably the family crypt of Harmylos, a local hero, and creator of the regal lineage of Harmylians.",
                 "images": [
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/charmilos0.jpg",
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/charmilos1.jpg"
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/charmilos0.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/charmilos1.jpg"
                 ],
                 "urls": [
                   "https://blog.astirodysseuskos.com/visiting-the-tomb-of-harmylos-charmilos-grave-in-pyli/"
@@ -544,8 +544,8 @@
                 "description": "Pyli Spring called Pigi is a six-fountain spring situated in the Peripatos (or Agios Nikolaos) area of the village of Pyli",
                 "more": "It was restored in 1592 during the Ottoman occupation, as stated on a built-in marble inscription. Water spurts out of six nozzles most of which stick out of the mouth of sculptures of a lion’s head.",
                 "images": [
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/water0.jpg",
-                  "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/kos/images/water1.jpg"
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/water0.jpg",
+                  "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/images/water1.jpg"
                 ],
                 "urls": [
                   "https://www.discoveringkos.com/destination-item/the-pyli-spring/"

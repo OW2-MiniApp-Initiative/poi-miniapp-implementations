@@ -4,7 +4,7 @@ This project is based on the [City of Brussels Open Data](https://opendata.bruss
 
 > It's free, open-source and collaborative.
 
-<img width="250" src="https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/brussels/comics/images/screenshots.gif" alt="Screenshots of the application">
+<img width="250" src="https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/brussels/comics/images/screenshots.gif" alt="Screenshots of the application">
 
 
 ## Privacy
@@ -13,9 +13,9 @@ The main data was collected using the public dataset of the open data initiative
 
 The app doesn't collect any personal data, so relax. There are calls to an analytics system, just to check if the app is used or not, but the app only send randomly generated information to avoid personal identification.
 
-Perhaps the content is inaccurate, so please [let us know](https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/issues/new) if you've spotted anything that might be enhanced.
+Perhaps the content is inaccurate, so please [let us know](https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/issues/new) if you've spotted anything that might be enhanced.
 
-The quick app may perform a call to a [Matomo](https://en.wikipedia.org/wiki/Matomo_(software)) instance to measure its performance, but no personal data is shared. You can just [check the code](https://github.com/ow2-quick-app-initiative/poi-quick-app/blob/0e30a81f203796156ecb29b30437fb18f9f83309/quick-app/src/app.ux#L222) that generates a random identifier.  
+The quick app may perform a call to a [Matomo](https://en.wikipedia.org/wiki/Matomo_(software)) instance to measure its performance, but no personal data is shared. You can just [check the code](https://github.com/ow2-miniapp-initiative/poi-miniapp/blob/0e30a81f203796156ecb29b30437fb18f9f83309/quick-app/src/app.ux#L222) that generates a random identifier.  
 
 ## Get involved
 
@@ -26,7 +26,7 @@ The project has two resource types:
 - *images* (`./images/xxxxx.jpg`): light pictures in square format. If possible 1x1 ratio for homogenous look and feel; the lighter the better (50Kb per image would be fine).
 - *database* (`./data.json`): JSON file with the app's configuration (name, colors, privacy texts, etc.) and the points of interest you want to show in the app. 
 
-You can download it in your computer, modify the texts, or add a new element based on your knowledge. You can upload it directly (better a Pull Request if you are familiar with GitHub), or [raise an issue](https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/issues/new) to suggest the changes (please be explicit).
+You can download it in your computer, modify the texts, or add a new element based on your knowledge. You can upload it directly (better a Pull Request if you are familiar with GitHub), or [raise an issue](https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/issues/new) to suggest the changes (please be explicit).
 
 Note that there is a moderation process, so it may take some hours. Please, leave a note with the suggestion, so the editor may validate and confirm your changes.
 
@@ -45,7 +45,7 @@ Please, use the identifier of the point of interest you are referring to (see at
 
 The database is in a JSON file named `data.json` in the root directory of the project. In `bxl/data.json` you have an empty file you can use to start the project.
 
-Please be sure that this document has the correct format (syntax and content). You can test it using any JSON schema validation tool against the JSON schema you can find in the repository ([schema.json](https://ow2-quick-app-initiative.github.io/poi-quick-app/schema.json)). 
+Please be sure that this document has the correct format (syntax and content). You can test it using any JSON schema validation tool against the JSON schema you can find in the repository ([schema.json](https://ow2-miniapp-initiative.github.io/poi-miniapp/schema.json)). 
 
 This JSON document contains two main parts, represented by the main keys of the root object:
 
@@ -100,12 +100,12 @@ The content language tags are objects with the following structure:
                     "brand": "#B11623",             // Main color of the theme
                     "complementary": "#FAFAFA"      // Secondary color of the theme
                 },
-                "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/tree/main/docs/fr/paris",
+                "repository_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/tree/main/docs/fr/paris",
                 "text_info": "This project was created by...",
                 "text_acknowledge": "We would like to thanks...",
                 "text_feedback": "Please let us know if you want to contribute...",
-                "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/fr/paris/#contributors",
-                "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/issues/new?labels=fr/paris"
+                "feedback_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp/fr/paris/#contributors",
+                "issue_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/issues/new?labels=fr/paris"
             },
             "pois": [
                 {
@@ -164,7 +164,7 @@ The PoIs are the main items of the database, described in the `poi` attribute as
 
 By default, any user's feedback is handled through GitHub issues. In order to facilitate the moderation, issues will be classified using tags to indicate the project whose belong to. The title of the issues should contain the same name or identifier of the point of interest to avoid misunderstandings.   
 
-You also can create an issue template to have homogeneous format (see [.github/ISSUE_TEMPLATE/update_request.md](https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/blob/main/.github/ISSUE_TEMPLATE/update_request.md)) and use it for new issues. 
+You also can create an issue template to have homogeneous format (see [.github/ISSUE_TEMPLATE/update_request.md](https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/blob/main/.github/ISSUE_TEMPLATE/update_request.md)) and use it for new issues. 
 
 In the [app configuration](#app-configuration) we configure the template URL for the issues for the project. If you want to handle issues by language, you can specify different tags or templates according to your needs. 
 
@@ -173,7 +173,7 @@ For instance,
 ``` json
 {
     //...
-    "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/issues/new?labels=sample&template=update_request.md&title=Update+request+of+"
+    "issue_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/issues/new?labels=sample&template=update_request.md&title=Update+request+of+"
     //...
 }
 ```
@@ -185,7 +185,7 @@ Note that the application will append the name of the point of interest at the e
 
 > Do you want to contribute to the code?
 
-Just fork the repository and start sending your contributions. The code of the quick app is in the [`/quick-app`](https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/blob/main/quick-app) folder of the repository. 
+Just fork the repository and start sending your contributions. The code of the quick app is in the [`/quick-app`](https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/blob/main/quick-app) folder of the repository. 
 
-Feel free to [raise issues](https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/issues/new) on the code.
+Feel free to [raise issues](https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/issues/new) on the code.
 

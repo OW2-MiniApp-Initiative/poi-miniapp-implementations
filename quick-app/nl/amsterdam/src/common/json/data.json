@@ -4,7 +4,7 @@
       "app_title": "AMS Historic Buildings",
       "version": 5,
       "updated": "2022-10-05",
-      "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/nl/amsterdam/data.json",
+      "source_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/nl/amsterdam/data.json",
       "matomo_base_url": "https://matomo.pbest.me/matomo.php?idsite=1&rec=1",        
       "marketplace_url": ""
   },
@@ -15,12 +15,12 @@
                   "brand": "#da121a",
                   "complementary": "#000000"
               },
-              "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/tree/main/docs/nl/amsterdam",
+              "repository_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/tree/main/docs/nl/amsterdam",
               "text_info": "This app is created by enthusiasts, based on Amsterdam Open Data. As you can see, it's also free of charge. Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures. Please, note that it's not an official app.",
               "text_acknowledge": "This quick app is an open-source project powered by open data and enriched by the community. Most of the information was extracted from https://maps.amsterdam.nl/open_geodata/?k=118 using automatic means. So, if you find inaccuracies we apologize.",
               "text_feedback": "Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures.",
-              "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/nl/amsterdam/#get-involved",
-              "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/issues/new?labels=nl/amsterda&template=update_request.md&title=Update%20Request"
+              "feedback_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/nl/amsterdam/#get-involved",
+              "issue_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/issues/new?labels=nl/amsterda&template=update_request.md&title=Update%20Request"
           },
          "pois" : [
           {

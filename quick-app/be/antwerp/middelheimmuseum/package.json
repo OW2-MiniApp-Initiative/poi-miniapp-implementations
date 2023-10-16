@@ -2,7 +2,7 @@
   "name": "es.espinr.middelheimmuseum",
   "version": "0.0.1",
   "license": "MIT",
-  "repository": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations",
+  "repository": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations",
   "description": "Antwerpen Middelheimmuseum Quick App",
   "scripts": {
     "fa-build": "node node_modules/webpack/bin/webpack.js --config ./node_modules/fa-toolkit/webpack.config.js",

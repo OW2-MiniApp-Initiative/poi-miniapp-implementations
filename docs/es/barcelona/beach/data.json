@@ -4,7 +4,7 @@
         "app_title": "BCN Beaches",
         "version": 7,
         "updated": "2023-01-03",
-        "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/es/barcelona/beach/data.json",
+        "source_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/es/barcelona/beach/data.json",
         "matomo_base_url": "https://matomo.pbest.me/matomo.php?idsite=1&rec=1",        
         "marketplace_url": "",
         "native_ad_unit_id": ""
@@ -17,12 +17,12 @@
                     "complementary": "#ffffff"
                 },
                 "place": "Barcelona",
-                "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/tree/main/docs/es/barcelona/beach",
+                "repository_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/tree/main/docs/es/barcelona/beach",
                 "text_info": "This app is created by enthusiasts, based on Barcelona Open Data and Wikidata. As you can see, it's also free of charge. Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures. Please, note that it's not an official app.",
                 "text_acknowledge": "This quick app is an open-source project powered by open data and enriched by the community. Most of the information was extracted from Barcelona Open Data and Wikidata using automatic means. So, if you find inaccuracies we apologize.",
                 "text_feedback": "Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures.",
-                "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/es/barcelona/beach/#get-involved",
-                "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/issues/new?labels=es/barcelona&template=update_request.md&title=Update%20Request"
+                "feedback_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/es/barcelona/beach/#get-involved",
+                "issue_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/issues/new?labels=es/barcelona&template=update_request.md&title=Update%20Request"
             },
            "pois" : [
             {
@@ -177,12 +177,12 @@
                   "complementary": "#ffffff"
               },
               "place": "Barcelona",
-              "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/tree/main/docs/es/barcelona/beach",
+              "repository_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/tree/main/docs/es/barcelona/beach",
               "text_info": "Aquesta aplicació està creada per entusiastes, basada en Barcelona Open Data i Wikidata. Com podeu veure, també és gratuït. Si us plau, fes-nos saber si vols contribuir amb la teva experiència, enriquir el contingut, corregir inexactituds o enviar imatges. Tingueu en compte que no és una aplicació oficial.",
               "text_acknowledge": "Aquesta quick app és un projecte de codi obert impulsat per dades obertes i enriquit per la comunitat. La major part de la informació s'ha extret de Barcelona Open Data i Wikidata mitjançant mitjans automàtics. Per tant, si trobeu inexactituds us demanem disculpes.",
               "text_feedback": "Si us plau, fes-nos saber si vols contribuir amb la teva experiència, enriquir el contingut, corregir inexactituds o enviar imatges.",
-              "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/es/barcelona/beach/#get-involved",
-              "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/issues/new?labels=es/barcelona&template=update_request.md&title=Update%20Request"
+              "feedback_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/es/barcelona/beach/#get-involved",
+              "issue_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/issues/new?labels=es/barcelona&template=update_request.md&title=Update%20Request"
           },
          "pois" : [
           {

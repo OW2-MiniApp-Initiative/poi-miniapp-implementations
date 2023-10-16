@@ -4,7 +4,7 @@
         "app_title": "LVN Street Heritage",
         "version": 26,
         "updated": "2023-01-03",
-        "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/data.json",
+        "source_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/data.json",
         "matomo_base_url": "https://matomo.pbest.me/matomo.php?idsite=1&rec=1",
         "marketplace_url": "https://appgallery.huawei.com/app/C105790639",
         "native_ad_unit_id": ""
@@ -17,12 +17,12 @@
                     "complementary": "#FAFAFA"
                 },
                 "place": "Leuven",
-                "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/tree/main/docs/be/leuven",
+                "repository_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/tree/main/docs/be/leuven",
                 "text_info": "This app is created by local experts, so it is not official. As you can see, it's also free of charge. Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures.",
                 "text_acknowledge": "This quick app is an open-source project powered by open data and enriched by the community. Most of the information was extracted from Wikidata, OpenStreetMaps, and other public sources. You can find inaccuracies, so we apologize in advance.",
                 "text_feedback": "Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures. This app is created by locals and experts.",
-                "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/#get-involved",
-                "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/issues/new?labels=be/leuven&template=update_request.md&title=Update+request+of+"
+                "feedback_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/#get-involved",
+                "issue_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/issues/new?labels=be/leuven&template=update_request.md&title=Update+request+of+"
             },
             "pois": [{
                     "id": "3701660486",
@@ -31,8 +31,8 @@
                     "type": "statue",
                     "name": "Pieter Coutereel",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/3701660486.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/3701660486_2.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/3701660486.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/3701660486_2.jpg"
                     ],
                     "description": "Pieter Couterel (1320-1373), mayor of Louvain",
                     "more": "Pieter Couterel (also 'Pe(e)ter' or 'Pierre', surname also 'Cotterel', 'Coutreel', 'Cout(h)ereel' or 'Koutereel'), meier of Louvain from 1348. Although not of nobility or particularly wealthy, he was nevertheless appointed to this high post by Duke John III of Brabant.",
@@ -50,7 +50,7 @@
                         "https://nl.wikipedia.org/wiki/De_Kotmadam_(Leuven)"
                     ],
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/1400871347.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/1400871347.jpg"
                     ],
                     "description": "Lady running a kot, a typical type of student residence in Leuven",
                     "more": "The statue, by Fred Bellefroid, was inaugurated on May 16, 1985. It was a gift from the tourist office to the city of Leuven (worth 800,000 Bfr), but an original idea of ​​the Marktrock committee. The inauguration was attended by Maria Swerts, the then oldest Leuven kotmadam and godmother of the statue. Despite the amusing nature of the image, the Kotmadam initially evoked mixed feelings. For example, the figure depicted did not correspond to the typical image of a kotmadam: old and slender. On the contrary, the kotmadam on the Oude Markt is a young, attractive lady."
@@ -68,10 +68,10 @@
                     "description": "Het Fonske -Fons Sapientiae, Latin for Source of Wisdom-",
                     "more": "Het Fonske is one of the works of Jef Claerhout and was donated to the city in 1975 on the occasion of the 550th anniversary of the Catholic University of Leuven.",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/2346968384_4.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/2346968384.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/2346968384_2.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/2346968384_3.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/2346968384_4.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/2346968384.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/2346968384_2.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/2346968384_3.jpg"
                     ],
                     "favorite": true
                 },
@@ -84,9 +84,9 @@
                     "artist:wikidata": "Q15983804",
                     "type": "statue",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/2507985861.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/2507985861_2.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/2507985861_3.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/2507985861.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/2507985861_2.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/2507985861_3.jpg"
                     ],
                     "description": "Paep(e) Thoon was a folk figure in Leuven in the Burgundian Netherlands during the Middle Ages.",
                     "more": "From Leuven in the 15th century, numerous stories circulate about this figure",
@@ -101,7 +101,7 @@
                     "name": "Erasmus",
                     "description": "Statue by René Rosseel that represents the scholar and humanist Erasmus (1467-1536), lecturer at the University of Leuven",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/2967726382.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/2967726382.jpg",
                         "https://3.bp.blogspot.com/-Mr3HG35q7Ck/UOsYz3jXTBI/AAAAAAAAJ2M/rCCP3XOs3i0/s1600/P1070850_2.jpg"
                     ]
                 },
@@ -114,10 +114,10 @@
                     "material": "bronze",
                     "name": "Dorre de Bakker",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/3100608422.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/3100608422_2.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/3100608422_3.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/3100608422_4.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/3100608422.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/3100608422_2.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/3100608422_3.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/3100608422_4.jpg"
                     ],
                     "description": "Bronze statue by Roland Rens, donated by the Leuven Association of Bread and Pastry Bakers in 1979.",
                     "year": "1979"
@@ -131,9 +131,9 @@
                     "description": "Freedom tree planted when the Belgian Revolution started in 1830",
                     "more": "The Belgian Revolution was the conflict which led to the secession of the southern provinces (former Southern Netherlands) from the United Kingdom of the Netherlands and the establishment of an independent Kingdom of Belgium. Leuven was briefly besieged by the regular Dutch troops on September 23, but with the help of farmers from the area they were driven out.",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/1150903685_3.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/1150903685.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/1150903685_2.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/1150903685_3.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/1150903685.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/1150903685_2.jpg"
                     ],
                     "wikipedia": "nl:Geschiedenis van Leuven#Het_Verenigd_Koninkrijk_der_Nederlanden_(1815_-_1830)"
                 },
@@ -147,7 +147,7 @@
                     "lat": "50.879103",
                     "lon": "4.702148",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/oeratoom.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/oeratoom.jpg"
                     ],
                     "favorite": true
                 },
@@ -161,7 +161,7 @@
                     "lat": "50.877965",
                     "lon": "4.690387",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/dodoens.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/dodoens.jpg"
                     ]
                 },
                 {
@@ -173,9 +173,9 @@
                     "description": "Center of the City of Leuven, from 1975, when pedestrian Mechelsestraat was opened",
                     "more": "According to a photo from 1864, the landmark stone used to be located on the Zeven Hoeken (today Mathieu De Layensplein)",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/3101985193_0.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/3101985193.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/3101985193_2.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/3101985193_0.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/3101985193.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/3101985193_2.jpg"
                     ],
                     "tourism": "attraction"
                 },
@@ -193,8 +193,8 @@
                     "description": "The Sint-Janspomp, named after Sint-Jansbron that traditionally supplied the neighborhood with drinking water",
                     "more": "It's dated in 1856 and replaced an older pump from 1702.",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/2675664649.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/2675664649_1.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/2675664649.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/2675664649_1.jpg"
                     ],
                     "OnroerendErfgoed:criteria": "M",
                     "pump": "manual",
@@ -210,7 +210,7 @@
                     "lon": "4.686552",
                     "type": "statue",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/koeieschieter.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/koeieschieter.jpg"
                     ]
                 },
                 {
@@ -221,7 +221,7 @@
                     "lat": "50.88215954173958",
                     "lon": "4.71416885170128",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/odeaandevriendshap.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/odeaandevriendshap.jpg"
                     ],
                     "type": "statue"
                 },
@@ -234,10 +234,10 @@
                     "lat": "50.88031341990272",
                     "lon": "4.709960116983157",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/justolipsio.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/justolipsio_2.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/justolipsio_3.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/justolipsio_4.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/justolipsio.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/justolipsio_2.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/justolipsio_3.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/justolipsio_4.jpg"
                     ]
                 },
                 {
@@ -249,7 +249,7 @@
                     "lon": "4.706343847068684",
                     "type": "totem",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/thetotem.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/thetotem.jpg"
                     ],
                     "favorite": true
                 },
@@ -262,8 +262,8 @@
                     "lat": "50.879317087169646",
                     "lon": "4.70039495861867",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/1914.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/1914_2.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/1914.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/1914_2.jpg"
                     ]
                 },
                 {
@@ -278,8 +278,8 @@
                         "https://en.wikipedia.org/wiki/Margaret_of_Louvain"
                     ],
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/fieremargriet.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/fieremargriet_2.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/fieremargriet.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/fieremargriet_2.jpg"
                     ]
                 },
                 {
@@ -294,9 +294,9 @@
                         "https://nl.wikipedia.org/wiki/Martelarenplein_(Leuven)"
                     ],
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/vredesmonument_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/vredesmonument_2.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/vredesmonument.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/vredesmonument_1.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/vredesmonument_2.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/vredesmonument.jpg"
                     ]
                 },
                 {
@@ -312,8 +312,8 @@
                         "https://be-monumen.be/patrimoine-belge/monument-au-pere-damien-leuven-louvain/"
                     ],
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/veuster.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/veuster_2.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/veuster.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/veuster_2.jpg"
                     ]
                 },
                 {
@@ -328,7 +328,7 @@
                         "https://be-monumen.be/patrimoine-belge/monument-a-edouard-remy-leuven-louvain/"
                     ],
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/remy.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/remy.jpg"
                     ]
                 },
                 {
@@ -340,8 +340,8 @@
                     "lon": "4.700506783281522",
                     "type": "statue",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/renee.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/renee_2.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/renee.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/renee_2.jpg"
                     ]
                 },
                 {
@@ -353,9 +353,9 @@
                     "lon": "4.696445113665215",
                     "type": "fountain",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/geluksbrenger.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/geluksbrenger_2.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/geluksbrenger_3.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/geluksbrenger.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/geluksbrenger_2.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/geluksbrenger_3.jpg"
                     ]
                 },
                 {
@@ -367,8 +367,8 @@
                     "lon": "4.702055116282056",
                     "type": "statue",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/dumont.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/dumont_2.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/dumont.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/dumont_2.jpg"
                     ]
                 },
                 {
@@ -380,9 +380,9 @@
                     "lon": "4.70274233127326",
                     "type": "statue",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/somer.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/somer_2.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/somer_3.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/somer.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/somer_2.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/somer_3.jpg"
                     ]
                 },
                 {
@@ -394,8 +394,8 @@
                     "lon": "4.703254725859783",
                     "type": "statue",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/60men.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/60men_2.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/60men.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/60men_2.jpg"
                     ]
                 },
                 {
@@ -407,7 +407,7 @@
                     "lon": "4.705868517952187",
                     "type": "statue",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/abraham.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/abraham.jpg"
                     ]
                 },
                 {
@@ -419,7 +419,7 @@
                     "lon": "4.696558732356493",
                     "type": "statue",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/mariabeeld.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/mariabeeld.jpg"
                     ]
                 },
                 {
@@ -431,9 +431,9 @@
                     "lon": "4.696558732356493",
                     "type": "water well",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/kartuizerpomp.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/kartuizerpomp_2.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/kartuizerpomp_3.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/kartuizerpomp.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/kartuizerpomp_2.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/kartuizerpomp_3.jpg"
                     ],
                     "urls": [
                         "https://nl.wikipedia.org/wiki/Kartuizerpomp"
@@ -448,8 +448,8 @@
                     "lon": "4.704666713785677",
                     "type": "water well",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/kattenpomp.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/kattenpomp_2.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/kattenpomp.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/kattenpomp_2.jpg"
                     ],
                     "urls": [
                         "https://nl.wikipedia.org/wiki/Kattenpomp"
@@ -464,7 +464,7 @@
                     "lon": "4.706129101780469",
                     "type": "fountain",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/hooverplein.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/hooverplein.jpg"
                     ],
                     "urls": [
                         "https://nl.wikipedia.org/wiki/Herbert_Hooverplein"
@@ -479,7 +479,7 @@
                     "lon": "4.697357757527114",
                     "type": "statue",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/vandeweerstand.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/vandeweerstand.jpg"
                     ],
                     "urls": [
                         "https://www.tracesofwar.nl/sights/45640/Nationaal-Monument-van-de-Weerstand.htm"
@@ -494,8 +494,8 @@
                     "lon": "4.697538194311103",
                     "type": "statue",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/albert_2.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/albert.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/albert_2.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/albert.jpg"
                     ],
                     "urls": [
                         "https://www.tracesofwar.com/sights/106818/Memorial-King-Albert-I.htm"
@@ -510,9 +510,9 @@
                     "lon": "4.716435766667093",
                     "type": "statue",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/europa.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/europa_2.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/europa_3.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/europa.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/europa_2.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/europa_3.jpg"
                     ],
                     "urls": [
                         "http://leveninleuven.be/2008/03/20/inhuldiging-de-ontvoering-van-europa/"
@@ -527,10 +527,10 @@
                     "lon": "4.689427215912153",
                     "type": "water well",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/jacobspomp_2.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/jacobspomp_4.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/jacobspomp_3.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/jacobspomp.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/jacobspomp_2.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/jacobspomp_4.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/jacobspomp_3.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/jacobspomp.jpg"
                     ],
                     "urls": [
                         "https://nl.wikipedia.org/wiki/Sint-Jacobspomp"
@@ -545,12 +545,12 @@
                     "lon": "4.700880771666212",
                     "type": "astrolabe",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/astrolabe.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/astrolabe_2.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/astrolabe_3.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/astrolabe_4.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/astrolabe_5.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/astrolabe_6.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/astrolabe.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/astrolabe_2.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/astrolabe_3.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/astrolabe_4.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/astrolabe_5.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/astrolabe_6.jpg"
                     ],
                     "urls": [
                         "http://2020group1.onlinepublishing.ulyssis.be/kangxi-hemelglobe-atrechtcollege"
@@ -565,7 +565,7 @@
                     "lon": "4.707232213679867",
                     "type": "library",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/bibliotheektoren.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/bibliotheektoren.jpg"
                     ],
                     "urls": [
                         "https://nl.wikipedia.org/wiki/Leuvense_universiteitsbibliotheken"
@@ -580,9 +580,9 @@
                     "lon": "4.69900165171082",
                     "type": "beguinage",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/kleinbegijnhof_2.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/kleinbegijnhof.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/kleinbegijnhof_3.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/kleinbegijnhof_2.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/kleinbegijnhof.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/kleinbegijnhof_3.jpg"
                     ],
                     "urls": [
                         "https://nl.wikipedia.org/wiki/Klein_Begijnhof_Leuven"
@@ -597,10 +597,10 @@
                     "lon": "4.697245106923151",
                     "type": "beguinage",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/grootbegijnhof_4.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/grootbegijnhof_3.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/grootbegijnhof.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/grootbegijnhof_2.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/grootbegijnhof_4.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/grootbegijnhof_3.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/grootbegijnhof.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/grootbegijnhof_2.jpg"
                     ],
                     "urls": [
                         "https://nl.wikipedia.org/wiki/Groot_Begijnhof_Leuven"
@@ -616,8 +616,8 @@
                     "lon": "4.699044868925404",
                     "type": "abbey",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/sintgeertruikerk.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/sintgeertruikerk_2.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/sintgeertruikerk.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/sintgeertruikerk_2.jpg"
                     ],
                     "urls": [
                         "https://nl.wikipedia.org/wiki/Sint-Geertrui-abdij"
@@ -632,7 +632,7 @@
                     "lon": "4.690944516086574",
                     "type": "church",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/sintjacobuskerk.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/sintjacobuskerk.jpg"
                     ],
                     "urls": [
                         "https://nl.wikipedia.org/wiki/Sint-Jacobskerk_(Leuven)"
@@ -647,12 +647,12 @@
                     "lon": "4.700586326378258",
                     "type": "church",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/sintpieterskerk_3.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/sintpieterskerk_2.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/sintpieterskerk_4.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/sintpieterskerk_5.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/sintpieterskerk_6.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/sintpieterskerk.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/sintpieterskerk_3.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/sintpieterskerk_2.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/sintpieterskerk_4.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/sintpieterskerk_5.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/sintpieterskerk_6.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/sintpieterskerk.jpg"
                     ],
                     "urls": [
                         "https://nl.wikipedia.org/wiki/Sint-Pieterskerk_(Leuven)"
@@ -668,9 +668,9 @@
                     "lon": "4.70129000323443",
                     "type": "town hall",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/stadhuis.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/stadhuis_2.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/stadhuis_3.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/stadhuis.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/stadhuis_2.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/stadhuis_3.jpg"
                     ],
                     "urls": [
                         "https://nl.wikipedia.org/wiki/Stadhuis_van_Leuven"
@@ -686,8 +686,8 @@
                     "lon": "4.69838019119763",
                     "type": "city gate",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/borchtpoort.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/borchtpoort_2.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/borchtpoort.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/borchtpoort_2.jpg"
                     ],
                     "urls": [
                         "https://www.vrt.be/vrtnws/nl/2019/02/05/oude-leuvense-stadsomwalling-gevonden/"
@@ -702,9 +702,9 @@
                     "lon": "4.6989023098413485",
                     "type": "church",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/sintkwintenskerk_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/sintkwintenskerk.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/sintkwintenskerk_2.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/sintkwintenskerk_1.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/sintkwintenskerk.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/sintkwintenskerk_2.jpg"
                     ],
                     "urls": [
                         "https://en.wikipedia.org/wiki/Saint_Quentin%27s_Church",
@@ -720,8 +720,8 @@
                     "lon": "4.699100",
                     "type": "urinals",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/urinals_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/urinals_0.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/urinals_1.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/urinals_0.jpg"
                     ],
                     "urls": [
                     ]
@@ -735,14 +735,14 @@
                     "lon": "4.687458",
                     "type": "priory",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/kartuis_7.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/kartuis_5.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/kartuis_0.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/kartuis_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/kartuis_6.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/kartuis_2.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/kartuis_3.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/kartuis_4.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/kartuis_7.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/kartuis_5.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/kartuis_0.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/kartuis_1.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/kartuis_6.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/kartuis_2.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/kartuis_3.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/kartuis_4.jpg"
                     ],
                     "urls": [
                     ]
@@ -756,8 +756,8 @@
                     "lon": "4.708749",
                     "type": "statue",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/dewitte.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/dewitte_02.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/dewitte.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/dewitte_02.jpg"
                     ],
                     "urls": [
                         "https://catchysights.com/blogs/news/de-witte"
@@ -772,8 +772,8 @@
                     "lon": "4.709040923685559",
                     "type": "facing stone",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/bell_02.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/leuven/heritage/images/bell.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/bell_02.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/leuven/heritage/images/bell.jpg"
                     ],
                     "urls": [
                         "https://blendeff.be/nl/item/B284"
