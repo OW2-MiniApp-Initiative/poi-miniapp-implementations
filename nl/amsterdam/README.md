@@ -1,6 +1,6 @@
 # _Heritage in…_ Amsterdam (Historic Buildings)
 
-The _Heritage in…_ Amsterdam Quick App promotes Amsterdam´s historic heritage through open data and crowdsourcing. This is part of the [Heritage_in Quick App Project](https://ow2-quick-app-initiative.github.io/poi-quick-app/#Theproject).
+The _Heritage in…_ Amsterdam Quick App promotes Amsterdam´s historic heritage through open data and crowdsourcing. This is part of the [Heritage_in Quick App Project](https://ow2-miniapp-initiative.github.io/poi-miniapp/#Theproject).
 
 > It's free, open-source and collaborative 
 
@@ -10,9 +10,9 @@ These apps are based on open data and automatic processing of the data. The comm
 
 The app doesn't collect any personal data, so relax. We won't sell anything.
 
-Perhaps the content is inaccurate, so please [let us know](https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/issues/new?labels=nl/amsterdam) if you've spotted anything that might be enhanced. 
+Perhaps the content is inaccurate, so please [let us know](https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/issues/new?labels=nl/amsterdam) if you've spotted anything that might be enhanced. 
 
-The quick app may perform a call to a [Matomo](https://en.wikipedia.org/wiki/Matomo_(software)) instance to measure its performance, but no personal data is shared. You can just [check the code](https://github.com/ow2-quick-app-initiative/poi-quick-app/blob/0e30a81f203796156ecb29b30437fb18f9f83309/quick-app/src/app.ux#L222) that generates a random identifier.  
+The quick app may perform a call to a [Matomo](https://en.wikipedia.org/wiki/Matomo_(software)) instance to measure its performance, but no personal data is shared. You can just [check the code](https://github.com/ow2-miniapp-initiative/poi-miniapp/blob/0e30a81f203796156ecb29b30437fb18f9f83309/quick-app/src/app.ux#L222) that generates a random identifier.  
 
 ## Get involved
 
@@ -25,7 +25,7 @@ Every project has two resource types:
 - *images* (`./images/xxxxx.jpg`): light pictures in square format. If possible 1x1 ratio for homogenous look and feel; the lighter the better (50Kb per image would be fine).
 - *database* (`./data.json`): JSON file with the app's configuration (name, colors, privacy texts, etc.) and the points of interest you want to show in the app. 
 
-You can download it in your computer, modify the texts, or add a new element based on your knowledge. You can upload it directly (better a Pull Request if you are familiar with GitHub), or [raise an issue](https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/issues/new?labels=nl/amsterdam) to suggest the changes (please be explicit).
+You can download it in your computer, modify the texts, or add a new element based on your knowledge. You can upload it directly (better a Pull Request if you are familiar with GitHub), or [raise an issue](https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/issues/new?labels=nl/amsterdam) to suggest the changes (please be explicit).
 
 Note that there is a moderation process, so it may take some hours. Please, leave a note with the suggestion, so the editor may validate and confirm your changes.
 
@@ -44,7 +44,7 @@ Please, use the identifier of the point of interest you are referring to (see at
 
 The database is in a JSON file named `data.json` in the root directory of the project. In `sample/data.json` you have an empty file you can use to start the project.
 
-Please be sure that this document has the correct format (syntax and content). You can test it using any JSON schema validation tool against the JSON schema you can find in the repository ([schema.json](https://ow2-quick-app-initiative.github.io/poi-quick-app/schema.json)). 
+Please be sure that this document has the correct format (syntax and content). You can test it using any JSON schema validation tool against the JSON schema you can find in the repository ([schema.json](https://ow2-miniapp-initiative.github.io/poi-miniapp/schema.json)). 
 
 This JSON document contains two main parts, represented by the main keys of the root object:
 
@@ -61,7 +61,7 @@ Example of a project named `fr/paris` for the City of Paris:
         "app_title": "Paris Street Heritage",
         "version": 1,
         "updated": "2022-03-26",
-        "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/fr/paris/data.json",
+        "source_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp/fr/paris/data.json",
         "matomo_base_url": "https://matomo.pbest.me/matomo.php?idsite=1&rec=1",                
         "marketplace_url": "https://appgallery.huawei.com/app/FinalURL"
     },
@@ -128,12 +128,12 @@ The content language tags are objects with the following structure:
                     "brand": "#B11623",             // Main color of the theme
                     "complementary": "#FAFAFA"      // Secondary color of the theme
                 },
-                "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/tree/main/docs/fr/paris",
+                "repository_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/tree/main/docs/fr/paris",
                 "text_info": "This project was created by...",
                 "text_acknowledge": "We would like to thanks...",
                 "text_feedback": "Please let us know if you want to contribute...",
-                "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/fr/paris/#contributors",
-                "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/issues/new?labels=fr/paris"
+                "feedback_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp/fr/paris/#contributors",
+                "issue_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/issues/new?labels=fr/paris"
             },
             "pois": [
                 {
@@ -143,8 +143,8 @@ The content language tags are objects with the following structure:
                     "type": "tower",
                     "name": "Eiffel Tower",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/fr/paris/images/eiffeltower_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/fr/paris/images/eiffeltower_2.jpg"
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp/fr/paris/images/eiffeltower_1.jpg",
+                        "https://ow2-miniapp-initiative.github.io/poi-miniapp/fr/paris/images/eiffeltower_2.jpg"
                     ],
                     "description": "The Tour Eiffel (French) is a iron lattice tower, named after the engineer Gustave Eiffel, whose company designed and built the tower",
                     "more": "Locally nicknamed La dame de fer (French for Iron Lady), it was constructed from 1887 to 1889 as the centerpiece of the 1889 World's Fair and was initially criticized by some of France's leading artists and intellectuals for its design, but it has become a global cultural icon of France and one of the most recognizable structures in the world",
@@ -209,7 +209,7 @@ For instance,
 ``` json
 {
     //...
-    "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/issues/new?labels=sample&template=update_request.md&title=Update+request+of+"
+    "issue_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/issues/new?labels=sample&template=update_request.md&title=Update+request+of+"
     //...
 }
 ```
@@ -223,5 +223,5 @@ Note that the application will append the name of the point of interest at the e
 
 Just fork the repository and start sending your contributions. The code of the quick app is in the [`/quick-app`](../quick-app) folder of the repository. 
 
-Feel free to [raise issues](https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/issues/new?labels=nl/amsterdam) on the code.
+Feel free to [raise issues](https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/issues/new?labels=nl/amsterdam) on the code.
 

@@ -4,7 +4,7 @@
         "app_title": "Illustrious Parisian Women",
         "version": 4,
         "updated": "2022-10-21",
-        "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/women/data.json",
+        "source_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/women/data.json",
         "matomo_base_url": "https://matomo.pbest.me/matomo.php?idsite=1&rec=1",
         "marketplace_url": ""
     },
@@ -15,12 +15,12 @@
                     "brand": "#071F32",
                     "complementary": "#FAFAFA"
                 },
-                "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/tree/main/docs/fr/paris/women",
+                "repository_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/tree/main/docs/fr/paris/women",
                 "text_info": "This app is created by local experts, so it is not official. As you can see, it's also free of charge. Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures.",
                 "text_acknowledge": "This quick app is an open-source project powered by Paris Open Data and enriched by the community. Most of the information was extracted from Paris Open Data, Wikidata, and other public sources. You can find inaccuracies, so we apologize in advance.",
                 "text_feedback": "Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures. This app is created by locals and experts.",
-                "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/women#get-involved",
-                "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/issues/new?labels=fr/paris&template=update_request.md&title=Update+request+of+"
+                "feedback_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/women#get-involved",
+                "issue_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/issues/new?labels=fr/paris&template=update_request.md&title=Update+request+of+"
             },
             "pois": [
               {
@@ -57,7 +57,7 @@
                 "name" : "Alessandra Montagne",
                 "description" : "The Franco-Brazilian chef of the Tempero restaurant is a locavore.",
                 "more" : "In her kitchen she uses Ile -de -France market products and offers a card reflecting her origins but also her travels.",
-                "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/women/images/placeholder.jpg"],
+                "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/women/images/placeholder.jpg"],
                 "attributions": ["Paris Data", "Direction de l'Attractivité et de l'Emploi - Ville de Paris" ],
                 "wikidata" : "",
                 "urls": []
@@ -174,7 +174,7 @@
                 "name" : "Christelle Brua",
                 "description" : "After being a better pastry chef of the year in 2009, she was crowned best pastry chef in the world in 2018.",
                 "more" : "Christelle Brua unveils her talents in the Catalan meadow, 3 Michelin stars and signs the card with her signing pastry “The apple in blown sugar”.",
-                "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/women/images/placeholder.jpg"],
+                "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/women/images/placeholder.jpg"],
                 "attributions": ["Paris Data", "Direction de l'Attractivité et de l'Emploi - Ville de Paris" ],
                 "wikidata" : "Q19951919",
                 "urls": []
@@ -265,7 +265,7 @@
                 "name" : "Eleonora Zuliani",
                 "description" : "Italian trattoria, he Baccaro is between Place Voltaire and Father Lachaise and is held by the Eleonora Zuliani head.",
                 "more" : "Ex-architect is the ambassador of the cuisine of Northern Italy and particularly of Frioul in Paris.",
-                "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/women/images/placeholder.jpg"],
+                "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/women/images/placeholder.jpg"],
                 "attributions": ["Paris Data", "Direction de l'Attractivité et de l'Emploi - Ville de Paris" ],
                 "wikidata" : "",
                 "urls": []
@@ -538,7 +538,7 @@
                 "name" : "Justine Piluso",
                 "description" : "Classified at the top of the best Parisian restaurant, the kitchens of the restaurant Le Cappiello have been held by Justine Piluso since January 2017.",
                 "more" : "Justine Piluso trained in the kitchen at the Bocuse Institute offers dishes with fresh products and a simple kitchen in her restaurant which she considers as a neighborhood bistro.",
-                "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/women/images/placeholder.jpg"],
+                "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/women/images/placeholder.jpg"],
                 "attributions": ["Paris Data", "Direction de l'Attractivité et de l'Emploi - Ville de Paris" ],
                 "wikidata" : "Q95488728",
                 "urls": []
@@ -629,7 +629,7 @@
                 "name" : "Manon Fleury",
                 "description" : "Originally from Burgundy, Manon Fleury has everything of a large chief.",
                 "more" : "She makes her classes at Ze Kitchen Gallerie and at Ferrandi school.",
-                "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/women/images/placeholder.jpg"],
+                "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/women/images/placeholder.jpg"],
                 "attributions": ["Paris Data", "Direction de l'Attractivité et de l'Emploi - Ville de Paris" ],
                 "wikidata" : "Q75773817",
                 "urls": []
@@ -980,7 +980,7 @@
                 "name" : "Tatiana et Katia Levha",
                 "description" : "At 32 rue Saint-Maur is the restaurant of the Sisters Levha, the Double Dragon.",
                 "more" : "They start their gastronomic adventure together with a first restaurant in 2014, the Servan, rue St-Maur too.",
-                "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/women/images/placeholder.jpg"],
+                "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/women/images/placeholder.jpg"],
                 "attributions": ["Paris Data", "Direction de l'Attractivité et de l'Emploi - Ville de Paris" ],
                 "wikidata" : "",
                 "urls": []
@@ -1032,12 +1032,12 @@
                 "brand": "#071F32",
                 "complementary": "#FAFAFA"
             },
-            "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/tree/main/docs/fr/paris/women",
+            "repository_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/tree/main/docs/fr/paris/women",
             "text_info": "Cette application est créée par des citoyens et des experts locaux, elle n'est donc pas officielle. Comme vous pouvez le voir, c'est aussi gratuit. Veuillez nous faire savoir si vous souhaitez contribuer avec votre expérience, enrichir le contenu, corriger des inexactitudes ou soumettre des photos.",
             "text_acknowledge": "Cette application rapide est un projet open-source propulsé par Paris Open Data et enrichi par la communauté. La plupart des informations ont été extraites de Paris Open Data, Wikidata et d'autres sources publiques. Vous pouvez trouver des inexactitudes, nous nous en excusons donc par avance.",
             "text_feedback": "Veuillez nous faire savoir si vous souhaitez contribuer avec votre expérience, enrichir le contenu, corriger des inexactitudes ou soumettre des photos. Cette application est créée par des habitants et des experts.",
-            "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/women#get-involved",
-            "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/issues/new?labels=fr/paris&template=update_request.md&title=Update+request+of+"
+            "feedback_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/women#get-involved",
+            "issue_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/issues/new?labels=fr/paris&template=update_request.md&title=Update+request+of+"
           },
           "pois": [
             {
@@ -1074,7 +1074,7 @@
               "name" : "Alessandra Montagne",
               "description" : "La cheffe Franco-brésilienne du restaurant Tempero est une locavore.",
               "more" : "Dans sa cuisine elle utilise des produits de marchés franciliens et propose une carte reflétant ses origines mais aussi ses voyages.",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/women/images/placeholder.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/women/images/placeholder.jpg"],
               "attributions": ["Paris Data", "Direction de l'Attractivité et de l'Emploi - Ville de Paris" ],
               "wikidata" : "",
               "urls": []
@@ -1191,7 +1191,7 @@
               "name" : "Christelle Brua",
               "description" : "Après avoir été meilleure pâtissière de l’année en 2009, elle est sacrée meilleure pâtissière au monde en 2018.",
               "more" : "Christelle Brua dévoile ses talents au Pré Catalan, 3 étoiles au Michelin et signe la carte avec sa pâtisserie signature “la pomme en sucre soufflé”.",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/women/images/placeholder.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/women/images/placeholder.jpg"],
               "attributions": ["Paris Data", "Direction de l'Attractivité et de l'Emploi - Ville de Paris" ],
               "wikidata" : "Q19951919",
               "urls": []
@@ -1282,7 +1282,7 @@
               "name" : "Eleonora Zuliani",
               "description" : "Trattoria italienne, il baccaro se situe entre place Voltaire et le Père Lachaise et est tenu par la cheffe Eleonora Zuliani.",
               "more" : "Ex-architecte est l'ambassadrice de la cuisine de l'Italie du Nord et particulièrement du Frioul à Paris.",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/women/images/placeholder.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/women/images/placeholder.jpg"],
               "attributions": ["Paris Data", "Direction de l'Attractivité et de l'Emploi - Ville de Paris" ],
               "wikidata" : "",
               "urls": []
@@ -1555,7 +1555,7 @@
               "name" : "Justine Piluso",
               "description" : "Classé en tête des meilleur restaurant parisiens, les cuisines du restaurant Le Cappiello sont tenues par Justine Piluso depuis janvier 2017.",
               "more" : "Justine Piluso formée en cuisine à l'institut Bocuse propose des plats à bases de produits frais et une cuisine simple dans son restaurant qu'elle considère comme bistrot de quartier.",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/women/images/placeholder.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/women/images/placeholder.jpg"],
               "attributions": ["Paris Data", "Direction de l'Attractivité et de l'Emploi - Ville de Paris" ],
               "wikidata" : "Q95488728",
               "urls": []
@@ -1646,7 +1646,7 @@
               "name" : "Manon Fleury",
               "description" : "Originaire de Bourgogne, Manon Fleury a tout d'une grande cheffe.",
               "more" : "Elle fait ses classes à ZE Kitchen Gallerie et à l'école Ferrandi.",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/women/images/placeholder.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/women/images/placeholder.jpg"],
               "attributions": ["Paris Data", "Direction de l'Attractivité et de l'Emploi - Ville de Paris" ],
               "wikidata" : "Q75773817",
               "urls": []
@@ -1997,7 +1997,7 @@
               "name" : "Tatiana et Katia Levha",
               "description" : "Au 32 rue Saint-Maur se situe le restaurant des soeurs Levha, le Double Dragon.",
               "more" : "Elles commencent ensemble leur aventure gastronomique avec un premier restaurant en 2014, le Servan, rue St-Maur lui aussi.",
-              "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/fr/paris/women/images/placeholder.jpg"],
+              "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/fr/paris/women/images/placeholder.jpg"],
               "attributions": ["Paris Data", "Direction de l'Attractivité et de l'Emploi - Ville de Paris" ],
               "wikidata" : "",
               "urls": []

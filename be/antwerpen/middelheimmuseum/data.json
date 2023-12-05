@@ -4,7 +4,7 @@
       "app_title": "Antwerpen Middelheimmuseum",
       "version": 12,
       "updated": "2022-10-18",
-      "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/data.json",
+      "source_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/data.json",
       "matomo_base_url": "https://matomo.pbest.me/matomo.php?idsite=1&rec=1",
       "marketplace_url": ""
   },
@@ -15,12 +15,12 @@
                   "brand": "#9ce668",
                   "complementary": "#00ccf6"
               },
-              "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/tree/main/docs/be/antwerpen/middelheimmuseum/",
+              "repository_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/tree/main/docs/be/antwerpen/middelheimmuseum/",
               "text_info": "This app was created to illustrate how to make the most of open data and citizens' collaboration. As you can see, it's free of charge Please, note that it's not an official app. In case you want to see all the details about these artworks, go to https://middelheimmuseum.be. There, you have a full catalog of the permanent artworks as well as a nice native app with routes.",
               "text_acknowledge": "This app is an open-source project powered by open data and enriched by the community. Most of the information was extracted from OpenStreetMap, Wikidata and Middelheimmuseum and personal pictures. You can find inaccuracies, so we apologize in advance.",
               "text_feedback": "Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures. This app is created by enthusiasts and experts. Visit https://middelheimmuseum.be for the official content and enjoy an excellent experience.",
-              "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/#get-involved",
-              "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/issues/new?labels=de/eckernforde&template=update_request.md&title=Update+Request"
+              "feedback_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/#get-involved",
+              "issue_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/issues/new?labels=de/eckernforde&template=update_request.md&title=Update+Request"
           },
          "pois" : [
           {
@@ -44,7 +44,7 @@
             "name" : "April",
             "description" : "Statue created by Mark Macken in 1957.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3137504602.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mark_Macken%2C_April%2C_1957.jpg/400px-Mark_Macken%2C_April%2C_1957.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3137504602.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mark_Macken%2C_April%2C_1957.jpg/400px-Mark_Macken%2C_April%2C_1957.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615985", 
             "urls": ["https://www.openstreetmap.org/node/3137504602","https://www.mapillary.com/map/im/GhYuMGo6UVmxVouPpqID4k"]
@@ -70,7 +70,7 @@
             "name" : "Biforma",
             "description" : "Sculpture created by Aldo Calò in 1959.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3137504605.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Aldo_Calo%2C_Biforma%2C_1959.jpg/400px-Aldo_Calo%2C_Biforma%2C_1959.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3137504605.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Aldo_Calo%2C_Biforma%2C_1959.jpg/400px-Aldo_Calo%2C_Biforma%2C_1959.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616019", 
             "urls": ["https://www.openstreetmap.org/node/3137504605","https://www.mapillary.com/map/im/onWQsztvC7E6Njn5KhbSE6"]
@@ -83,7 +83,7 @@
             "name" : "Dames",
             "description" : "Statue created by Floriano Bodini in 1960.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3137504606.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Floriano_Bodini%2C_Dames%2C_1961.jpg/400px-Floriano_Bodini%2C_Dames%2C_1961.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3137504606.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Floriano_Bodini%2C_Dames%2C_1961.jpg/400px-Floriano_Bodini%2C_Dames%2C_1961.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616045", 
             "urls": ["https://www.openstreetmap.org/node/3137504606","https://www.mapillary.com/map/im/LRXSah9n7RIBe3AeKzPGCz"]
@@ -109,7 +109,7 @@
             "name" : "De Danspas",
             "description" : "Statue created by Giacomo Manzù in 1949.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3137504608.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Giacomo_Manzu%2C_De_Danspas%2C_1960.jpg/400px-Giacomo_Manzu%2C_De_Danspas%2C_1960.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3137504608.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Giacomo_Manzu%2C_De_Danspas%2C_1960.jpg/400px-Giacomo_Manzu%2C_De_Danspas%2C_1960.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615764", 
             "urls": ["https://www.openstreetmap.org/node/3137504608","https://www.mapillary.com/map/im/hhjjhULmEBMpUVOjBqcRcA"]
@@ -135,7 +135,7 @@
             "name" : "De Hond",
             "description" : "Sculpture created by Toni Stadler in 1949.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3137504610.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Toni_Stadler%2C_De_Hond%2C_1950.jpg/400px-Toni_Stadler%2C_De_Hond%2C_1950.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3137504610.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Toni_Stadler%2C_De_Hond%2C_1950.jpg/400px-Toni_Stadler%2C_De_Hond%2C_1950.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615775", 
             "urls": ["https://www.openstreetmap.org/node/3137504610","https://www.mapillary.com/map/im/3jtetMVM0iBT3SQZ1YIbdr"]
@@ -148,7 +148,7 @@
             "name" : "De Zaaier",
             "description" : "Statue created by Constantin Meunier in 1896.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3137504611.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/De_Zaaier_door_Constantin_Meunier.jpg/400px-De_Zaaier_door_Constantin_Meunier.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3137504611.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/De_Zaaier_door_Constantin_Meunier.jpg/400px-De_Zaaier_door_Constantin_Meunier.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q21647357", 
             "urls": ["https://www.openstreetmap.org/node/3137504611","https://www.mapillary.com/map/im/LMfHwMZEh2mFuKJEDmcbFP"]
@@ -200,7 +200,7 @@
             "name" : "Faun",
             "description" : "Statue created by Marcello Mascherini in 1953.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3137504616.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Marcello_Mascherini%2C_Faun%2C_1953-1954.jpg/400px-Marcello_Mascherini%2C_Faun%2C_1953-1954.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3137504616.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Marcello_Mascherini%2C_Faun%2C_1953-1954.jpg/400px-Marcello_Mascherini%2C_Faun%2C_1953-1954.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615854", 
             "urls": ["https://www.openstreetmap.org/node/3137504616","https://www.mapillary.com/map/im/NBXmJocuBSBp5wRit3Y6UW"]
@@ -278,7 +278,7 @@
             "name" : "Ontmoeting VIII",
             "description" : "Sculpture created by Lynn Chadwick in 1957.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3137504623.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lynn_Chadwick%2C_Ontmoeting_VIII%2C_1957.jpg/400px-Lynn_Chadwick%2C_Ontmoeting_VIII%2C_1957.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3137504623.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lynn_Chadwick%2C_Ontmoeting_VIII%2C_1957.jpg/400px-Lynn_Chadwick%2C_Ontmoeting_VIII%2C_1957.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615966", 
             "urls": ["https://www.openstreetmap.org/node/3137504623","https://www.mapillary.com/map/im/js8qgdl0ClN4VIc2DPV0Iy"]
@@ -330,7 +330,7 @@
             "name" : "Stier",
             "description" : "Sculpture created by Vojin Bakić in 1954.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3137504628.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Vojin_Bakic%2C_Stier%2C_1955.jpg/400px-Vojin_Bakic%2C_Stier%2C_1955.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3137504628.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Vojin_Bakic%2C_Stier%2C_1955.jpg/400px-Vojin_Bakic%2C_Stier%2C_1955.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615896", 
             "urls": ["https://www.openstreetmap.org/node/3137504628"]
@@ -434,7 +434,7 @@
             "name" : "Abstract naakt",
             "description" : "Sculpture created by Alberto Viani in 1948.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3138809335.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Alberto_Viano%2C_Abstract_naakt%2C1949.jpg/400px-Alberto_Viano%2C_Abstract_naakt%2C1949.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3138809335.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Alberto_Viano%2C_Abstract_naakt%2C1949.jpg/400px-Alberto_Viano%2C_Abstract_naakt%2C1949.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615752", 
             "urls": ["https://www.openstreetmap.org/node/3138809335","https://www.mapillary.com/map/im/2Unf3iBCxYKYU1xjsYbkHj"]
@@ -473,7 +473,7 @@
             "name" : "De familie Desmet in de hemel",
             "description" : "Sculpture created by Etienne Desmet in 1971.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3138809341.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Etienne_Desmet%2C_De_familie_Desmet_in_de_hemel%2C_1972.jpg/400px-Etienne_Desmet%2C_De_familie_Desmet_in_de_hemel%2C_1972.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3138809341.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Etienne_Desmet%2C_De_familie_Desmet_in_de_hemel%2C_1972.jpg/400px-Etienne_Desmet%2C_De_familie_Desmet_in_de_hemel%2C_1972.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616284", 
             "urls": ["https://www.openstreetmap.org/node/3138809341","https://www.mapillary.com/map/im/pz6Uyss2AhHtG68XqNCanB"]
@@ -486,7 +486,7 @@
             "name" : "De ijsbeer",
             "description" : "Sculpture created by François Pompon in 1920.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3138809342.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Fran%C3%A7ois_Pompon%2C_De_ijsbeer%2C_1920.jpg/400px-Fran%C3%A7ois_Pompon%2C_De_ijsbeer%2C_1920.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3138809342.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Fran%C3%A7ois_Pompon%2C_De_ijsbeer%2C_1920.jpg/400px-Fran%C3%A7ois_Pompon%2C_De_ijsbeer%2C_1920.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615555", 
             "urls": ["https://www.openstreetmap.org/node/3138809342","https://www.mapillary.com/map/im/9oP4d2XMIFdJ6G80RcQaIp"]
@@ -499,8 +499,8 @@
             "name" : "Disziplin der Subjektivitat",
             "description" : "Sculpture created by Erwin Wurm in 2005.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3138809344_1.jpg",
-            "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3138809344_2.jpg",
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3138809344_1.jpg",
+            "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3138809344_2.jpg",
             "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Erwin_Wurm%2C_Disziplin_der_Subjektivitat%2C_2006.jpg/400px-Erwin_Wurm%2C_Disziplin_der_Subjektivitat%2C_2006.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q55744017", 
@@ -527,7 +527,7 @@
             "name" : "Geboorte",
             "description" : "Sculpture created by Pietro Cascella in 1973.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3138809347.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Pietro_Cascella%2C_Geboorte%2C_1973.jpg/400px-Pietro_Cascella%2C_Geboorte%2C_1973.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3138809347.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Pietro_Cascella%2C_Geboorte%2C_1973.jpg/400px-Pietro_Cascella%2C_Geboorte%2C_1973.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616286", 
             "urls": ["https://www.openstreetmap.org/node/3138809347","https://www.mapillary.com/map/im/ijiOTAwrR3U9mie5nfXI8d"]
@@ -566,7 +566,7 @@
             "name" : "La folie du geste",
             "description" : "Sculpture created by Jacques Guilmot in 1970.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3138809351.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Jacques_Guilmot%2C_La_folie_du_geste%2C_1971.jpg/400px-Jacques_Guilmot%2C_La_folie_du_geste%2C_1971.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3138809351.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Jacques_Guilmot%2C_La_folie_du_geste%2C_1971.jpg/400px-Jacques_Guilmot%2C_La_folie_du_geste%2C_1971.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616259", 
             "urls": ["https://www.openstreetmap.org/node/3138809351","https://www.mapillary.com/map/im/DuGyoZIfzcZMvxa7dBnGId"]
@@ -579,7 +579,7 @@
             "name" : "Lichtleven",
             "description" : "Sculpture created by Jan Dries in 1962.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3138809352.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Jan_Dries%2C_Lichtleven%2C_1962.jpg/400px-Jan_Dries%2C_Lichtleven%2C_1962.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3138809352.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Jan_Dries%2C_Lichtleven%2C_1962.jpg/400px-Jan_Dries%2C_Lichtleven%2C_1962.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616055", 
             "urls": ["https://www.openstreetmap.org/node/3138809352","https://www.mapillary.com/map/im/1s0sIUwwN4WOr266sec76h"]
@@ -631,7 +631,7 @@
             "name" : "Pegasus",
             "description" : "Sculpture created by Carl Milles in 1948.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3138809356.jpg","https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3138809344_2.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Carl_Milles%2C_Pegasus%2C_1949.jpg/400px-Carl_Milles%2C_Pegasus%2C_1949.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3138809356.jpg","https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3138809344_2.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Carl_Milles%2C_Pegasus%2C_1949.jpg/400px-Carl_Milles%2C_Pegasus%2C_1949.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615749", 
             "urls": ["https://www.openstreetmap.org/node/3138809356","https://www.mapillary.com/map/im/EppJ6cmwazXfpUAWFFrec8"]
@@ -644,7 +644,7 @@
             "name" : "Ruiters",
             "description" : "Sculpture created by Umberto Mastroianni in 1953.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3138809357.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Umberto_Mastroianni%2C_Ruiters%2C1953.jpg/400px-Umberto_Mastroianni%2C_Ruiters%2C1953.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3138809357.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Umberto_Mastroianni%2C_Ruiters%2C1953.jpg/400px-Umberto_Mastroianni%2C_Ruiters%2C1953.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615858", 
             "urls": ["https://www.openstreetmap.org/node/3138809357","https://www.mapillary.com/map/im/PuSpzNKPFwJexiuwTvsimt"]
@@ -709,7 +709,7 @@
             "name" : "Zonnewagen",
             "description" : "Sculpture created by Camiel Van Breedam in 1974.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3138809362.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Camiel_Van_Breedam%2C_Zonnewagen%2C_1974.jpg/400px-Camiel_Van_Breedam%2C_Zonnewagen%2C_1974.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3138809362.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Camiel_Van_Breedam%2C_Zonnewagen%2C_1974.jpg/400px-Camiel_Van_Breedam%2C_Zonnewagen%2C_1974.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616300", 
             "urls": ["https://www.openstreetmap.org/node/3138809362","https://www.mapillary.com/map/im/0aUdjw5rlJDm7KvZpbJLZa"]
@@ -735,7 +735,7 @@
             "name" : "Balzac",
             "description" : "Sculpture created by Auguste Rodin in 1890.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450161.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Balzac_door_Auguste_Rodin.jpg/400px-Balzac_door_Auguste_Rodin.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450161.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Balzac_door_Auguste_Rodin.jpg/400px-Balzac_door_Auguste_Rodin.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q2770535", 
             "urls": ["https://www.openstreetmap.org/node/3151450161","https://www.mapillary.com/map/im/k11OEgUVVNB9MXH09v4W3B"]
@@ -748,7 +748,7 @@
             "name" : "Bomslachtoffer",
             "description" : "Statue created by Mari Andriessen in 1948.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450163.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mari_Andriessen%2C_Bomslachtoffer%2C_1948-1951.jpg/400px-Mari_Andriessen%2C_Bomslachtoffer%2C_1948-1951.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450163.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mari_Andriessen%2C_Bomslachtoffer%2C_1948-1951.jpg/400px-Mari_Andriessen%2C_Bomslachtoffer%2C_1948-1951.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615745", 
             "urls": ["https://www.openstreetmap.org/node/3151450163","https://www.mapillary.com/map/im/Eg1FZqdfykN1fkAZxWGKmV"]
@@ -761,7 +761,7 @@
             "name" : "Burgemeester Lode Craeybeckx",
             "description" : "Sculpture created by Vic Gentils in 1971.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450164.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Burgemeester_Lode_Craeybeckx_door_Vic_Gentils.jpg/400px-Burgemeester_Lode_Craeybeckx_door_Vic_Gentils.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450164.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Burgemeester_Lode_Craeybeckx_door_Vic_Gentils.jpg/400px-Burgemeester_Lode_Craeybeckx_door_Vic_Gentils.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616278", 
             "urls": ["https://www.openstreetmap.org/node/3151450164","https://www.mapillary.com/map/im/lk0GWB7BOia38cI2fXJ1Jo"]
@@ -800,7 +800,7 @@
             "name" : "De Hond",
             "description" : "Sculpture created by Alexander Calder in 1958.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450167.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Alexander_Calder%2C_De_Hond%2C_1958.jpg/400px-Alexander_Calder%2C_De_Hond%2C_1958.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450167.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Alexander_Calder%2C_De_Hond%2C_1958.jpg/400px-Alexander_Calder%2C_De_Hond%2C_1958.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616013", 
             "urls": ["https://www.openstreetmap.org/node/3151450167","https://www.mapillary.com/map/im/wa9TfTgIYFW56q8TRc2xr7"]
@@ -813,7 +813,7 @@
             "name" : "De Mantis",
             "description" : "Sculpture created by Germaine Richier in 1946.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450168.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Germaine_Richier_-_De_Mantis_%28Bidsprinkhaan%29_-_1946_-_Middelheimmuseum.jpg/400px-Germaine_Richier_-_De_Mantis_%28Bidsprinkhaan%29_-_1946_-_Middelheimmuseum.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450168.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Germaine_Richier_-_De_Mantis_%28Bidsprinkhaan%29_-_1946_-_Middelheimmuseum.jpg/400px-Germaine_Richier_-_De_Mantis_%28Bidsprinkhaan%29_-_1946_-_Middelheimmuseum.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615697", 
             "urls": ["https://www.openstreetmap.org/node/3151450168","https://www.mapillary.com/map/im/iqucJpuVIBIYekUbU5S1Ze"]
@@ -826,7 +826,7 @@
             "name" : "De Middelandse Zee",
             "description" : "Statue created by Aristide Maillol in 1903.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450169.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/De_Middelandse_Zee_door_Aristide_Maillol.jpg/400px-De_Middelandse_Zee_door_Aristide_Maillol.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450169.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/De_Middelandse_Zee_door_Aristide_Maillol.jpg/400px-De_Middelandse_Zee_door_Aristide_Maillol.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615389", 
             "urls": ["https://www.openstreetmap.org/node/3151450169","https://www.mapillary.com/map/im/EPgTAH8mM1wEZj9mffcfZ8"]
@@ -839,7 +839,7 @@
             "name" : "De Rivier",
             "description" : "Sculpture created by Aristide Maillol in 1941.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450170.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/De_Rivier_door_Aristide_Maillol.jpg/400px-De_Rivier_door_Aristide_Maillol.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450170.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/De_Rivier_door_Aristide_Maillol.jpg/400px-De_Rivier_door_Aristide_Maillol.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27636923", 
             "urls": ["https://www.openstreetmap.org/node/3151450170","https://www.mapillary.com/map/im/UhDUKEfoeYMmRU16AU8a1r"]
@@ -878,7 +878,7 @@
             "name" : "De profeet",
             "description" : "Statue created by Pablo Gargallo in 1932.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450173.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Pable_Gargallo%2C_De_profeet%2C_1933.jpg/400px-Pable_Gargallo%2C_De_profeet%2C_1933.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450173.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Pable_Gargallo%2C_De_profeet%2C_1933.jpg/400px-Pable_Gargallo%2C_De_profeet%2C_1933.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615607", 
             "urls": ["https://www.openstreetmap.org/node/3151450173","https://www.mapillary.com/map/im/tn6fFSmDkqLq9rFvsTXv8z"]
@@ -904,7 +904,7 @@
             "name" : "De worstelaar",
             "description" : "Statue created by Emilio Greco in 1947.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450175.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Emilio_Greco%2C_De_worstelaar%2C_1947-1948.jpg/400px-Emilio_Greco%2C_De_worstelaar%2C_1947-1948.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450175.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Emilio_Greco%2C_De_worstelaar%2C_1947-1948.jpg/400px-Emilio_Greco%2C_De_worstelaar%2C_1947-1948.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615704", 
             "urls": ["https://www.openstreetmap.org/node/3151450175","https://www.mapillary.com/map/im/XE1pCERNNhldHQNM5K6Zws"]
@@ -917,7 +917,7 @@
             "name" : "Demeure nr 4 Lanleef",
             "description" : "Sculpture created by Étienne Martin in 1961.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450176.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Demeure_nr_4_Lanleef_door_Etienne_Martin%2C_1961.jpg/400px-Demeure_nr_4_Lanleef_door_Etienne_Martin%2C_1961.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450176.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Demeure_nr_4_Lanleef_door_Etienne_Martin%2C_1961.jpg/400px-Demeure_nr_4_Lanleef_door_Etienne_Martin%2C_1961.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616051", 
             "urls": ["https://www.openstreetmap.org/node/3151450176","https://www.mapillary.com/map/im/dYsYaxvE47UrwtnR4uyc6e"]
@@ -930,7 +930,7 @@
             "name" : "Drang naar het leven",
             "description" : "Sculpture created by Hildo Krop in 1952.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450177.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Hildo_Crop%2C_Drang_naar_het_leven%2C_1952.jpg/400px-Hildo_Crop%2C_Drang_naar_het_leven%2C_1952.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450177.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Hildo_Crop%2C_Drang_naar_het_leven%2C_1952.jpg/400px-Hildo_Crop%2C_Drang_naar_het_leven%2C_1952.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615824", 
             "urls": ["https://www.openstreetmap.org/node/3151450177","https://www.mapillary.com/map/im/PMblavW35KqVn5Tc0Qm1YL"]
@@ -943,7 +943,7 @@
             "name" : "Drie staanden",
             "description" : "Sculpture created by Eugène Dodeigne in 1977.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450178.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Eugene_Dodeigne%2C_Drie_staanden%2C_1978.jpg/400px-Eugene_Dodeigne%2C_Drie_staanden%2C_1978.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450178.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Eugene_Dodeigne%2C_Drie_staanden%2C_1978.jpg/400px-Eugene_Dodeigne%2C_Drie_staanden%2C_1978.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616344", 
             "urls": ["https://www.openstreetmap.org/node/3151450178","https://www.mapillary.com/map/im/umGLWcYP1HYXN6nyJUU80f"]
@@ -956,7 +956,7 @@
             "name" : "Drieklank",
             "description" : "Sculpture created by Rudolf Belling in 1919.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450179.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Drieklank_door_Rudolf_Belling%2C_1919.jpg/400px-Drieklank_door_Rudolf_Belling%2C_1919.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450179.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Drieklank_door_Rudolf_Belling%2C_1919.jpg/400px-Drieklank_door_Rudolf_Belling%2C_1919.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615552", 
             "urls": ["https://www.openstreetmap.org/node/3151450179","https://www.mapillary.com/map/im/h4tA3hvnXNOPEAjpiZtubo"]
@@ -1008,7 +1008,7 @@
             "name" : "Gevecht van Jacob met de Engel",
             "description" : "Sculpture created by Jacques Lipchitz in 1931.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450184.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/%22Gevecht_van_Jacob_met_de_Engel%22_door_Jacques_Lipchitz%2C_1932.jpg/400px-%22Gevecht_van_Jacob_met_de_Engel%22_door_Jacques_Lipchitz%2C_1932.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450184.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/%22Gevecht_van_Jacob_met_de_Engel%22_door_Jacques_Lipchitz%2C_1932.jpg/400px-%22Gevecht_van_Jacob_met_de_Engel%22_door_Jacques_Lipchitz%2C_1932.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615594", 
             "urls": ["https://www.openstreetmap.org/node/3151450184","https://www.mapillary.com/map/im/mHRm9U1ObmwZfKGHgAoVmt"]
@@ -1021,7 +1021,7 @@
             "name" : "Grote zittende",
             "description" : "Statue created by Georg Kolbe in 1929.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450185.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Georg_Kolbe%2C_Grote_zittende%2C_1929.jpg/400px-Georg_Kolbe%2C_Grote_zittende%2C_1929.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450185.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Georg_Kolbe%2C_Grote_zittende%2C_1929.jpg/400px-Georg_Kolbe%2C_Grote_zittende%2C_1929.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615579", 
             "urls": ["https://www.openstreetmap.org/node/3151450185","https://www.mapillary.com/map/im/8dCOrRms0OsiMoLXfMwCUD"]
@@ -1034,7 +1034,7 @@
             "name" : "Heracles Boogschutter",
             "description" : "Statue created by Antoine Bourdelle in 1908.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450186.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Heracles_Boogschutter_door_Emile-Antoine_Bourdelle.jpg/400px-Heracles_Boogschutter_door_Emile-Antoine_Bourdelle.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450186.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Heracles_Boogschutter_door_Emile-Antoine_Bourdelle.jpg/400px-Heracles_Boogschutter_door_Emile-Antoine_Bourdelle.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615524", 
             "urls": ["https://www.openstreetmap.org/node/3151450186","https://www.mapillary.com/map/im/EKSL3Ld93GAi98q7xh5lsU"]
@@ -1047,7 +1047,7 @@
             "name" : "Het grote paard",
             "description" : "Sculpture created by Raymond Duchamp-Villon in 1914.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450187.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Raymond_Duchamp-Villon%2C_Het_grote_paard%2C_1914.jpg/400px-Raymond_Duchamp-Villon%2C_Het_grote_paard%2C_1914.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450187.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Raymond_Duchamp-Villon%2C_Het_grote_paard%2C_1914.jpg/400px-Raymond_Duchamp-Villon%2C_Het_grote_paard%2C_1914.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615545", 
             "urls": ["https://www.openstreetmap.org/node/3151450187","https://www.mapillary.com/map/im/Wg6tWxFMxkVSbGwK16vFdK"]
@@ -1060,7 +1060,7 @@
             "name" : "Het rijk des hemels",
             "description" : "Sculpture created by Émile Gilioli in 1953.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450188.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Emile_Gilioli%2C_Het_rijk_des_hemels%2C_1954-1955.jpg/400px-Emile_Gilioli%2C_Het_rijk_des_hemels%2C_1954-1955.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450188.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Emile_Gilioli%2C_Het_rijk_des_hemels%2C_1954-1955.jpg/400px-Emile_Gilioli%2C_Het_rijk_des_hemels%2C_1954-1955.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615877", 
             "urls": ["https://www.openstreetmap.org/node/3151450188","https://www.mapillary.com/map/im/W5W9MadDs0Lh2J9N2RgZqf"]
@@ -1073,7 +1073,7 @@
             "name" : "Het zotte geweld",
             "description" : "Statue created by Rik Wouters in 1912.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450189.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Het_zotte_geweld_door_Rik_Wouters_01.jpg/400px-Het_zotte_geweld_door_Rik_Wouters_01.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450189.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Het_zotte_geweld_door_Rik_Wouters_01.jpg/400px-Het_zotte_geweld_door_Rik_Wouters_01.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q4988632", 
             "urls": ["https://www.openstreetmap.org/node/3151450189","https://www.mapillary.com/map/im/mInv6qMWyLIG7Mkqu8jDal"]
@@ -1086,7 +1086,7 @@
             "name" : "In betrekking staande figuren",
             "description" : "Sculpture created by Bernhard Heiliger in 1953.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450190.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/%22In_betrekking_staande_figuren%22_door_Bernhard_Heilinger%2C_1954_%282%29.jpg/400px-%22In_betrekking_staande_figuren%22_door_Bernhard_Heilinger%2C_1954_%282%29.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450190.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/%22In_betrekking_staande_figuren%22_door_Bernhard_Heilinger%2C_1954_%282%29.jpg/400px-%22In_betrekking_staande_figuren%22_door_Bernhard_Heilinger%2C_1954_%282%29.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615889", 
             "urls": ["https://www.openstreetmap.org/node/3151450190","https://www.mapillary.com/map/im/No132sZqY7ChmdrCDVxWkS"]
@@ -1099,7 +1099,7 @@
             "name" : "In de zon",
             "description" : "Statue created by Oscar Jespers in 1947.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450191.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/%22In_de_zon%22_door_Oscar_Jespers%2C_1947.jpg/400px-%22In_de_zon%22_door_Oscar_Jespers%2C_1947.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450191.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/%22In_de_zon%22_door_Oscar_Jespers%2C_1947.jpg/400px-%22In_de_zon%22_door_Oscar_Jespers%2C_1947.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615723", 
             "urls": ["https://www.openstreetmap.org/node/3151450191","https://www.mapillary.com/map/im/j8BRYqOLMOKe3P1O6BFdLs"]
@@ -1112,7 +1112,7 @@
             "name" : "Interpretatie van de Pieta",
             "description" : "Sculpture created by Pablo Serrano in 1970.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450192.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Pablo_Serrano%2C_Interpretatie_van_de_Pieta%2C_1971-1972.jpg/400px-Pablo_Serrano%2C_Interpretatie_van_de_Pieta%2C_1971-1972.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450192.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Pablo_Serrano%2C_Interpretatie_van_de_Pieta%2C_1971-1972.jpg/400px-Pablo_Serrano%2C_Interpretatie_van_de_Pieta%2C_1971-1972.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616254", 
             "urls": ["https://www.openstreetmap.org/node/3151450192"]
@@ -1125,7 +1125,7 @@
             "name" : "Koning en Koningin",
             "description" : "Sculpture created by Henry Moore in 1952.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450193.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Koning_en_Koningin_door_Henry_Moore.jpg/400px-Koning_en_Koningin_door_Henry_Moore.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450193.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Koning_en_Koningin_door_Henry_Moore.jpg/400px-Koning_en_Koningin_door_Henry_Moore.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q19759058", 
             "urls": ["https://www.openstreetmap.org/node/3151450193","https://www.mapillary.com/map/im/h4jXxBX05SuL4bbtLuNC7H"]
@@ -1164,7 +1164,7 @@
             "name" : "Les murs ont des oreilles que la raison ne connait pas",
             "description" : "Sculpture created by Reinhoud D'Haese in 1958.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450197.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Reinhoud%2C_Les_murs_ont_des_oreilles_...%2C_1958.jpg/400px-Reinhoud%2C_Les_murs_ont_des_oreilles_...%2C_1958.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450197.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Reinhoud%2C_Les_murs_ont_des_oreilles_...%2C_1958.jpg/400px-Reinhoud%2C_Les_murs_ont_des_oreilles_...%2C_1958.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616001", 
             "urls": ["https://www.openstreetmap.org/node/3151450197","https://www.mapillary.com/map/im/9QqkDtgDQfCNCksL6UBDse"]
@@ -1177,7 +1177,7 @@
             "name" : "Manstorso",
             "description" : "Bust created by Georges Minne in 1909.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450198.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Georges_Minne%2C_Manstorso%2C_1910.jpg/400px-Georges_Minne%2C_Manstorso%2C_1910.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450198.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Georges_Minne%2C_Manstorso%2C_1910.jpg/400px-Georges_Minne%2C_Manstorso%2C_1910.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615526", 
             "urls": ["https://www.openstreetmap.org/node/3151450198","https://www.mapillary.com/map/im/E2MjphjwUGIr8dJXsLmUcx"]
@@ -1190,7 +1190,7 @@
             "name" : "Meisje met springtouw",
             "description" : "Statue created by Robert Couturier in 1951.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450199.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Robert_Couturier%2C_Meisje_met_springtouw%2C_1951.jpg/400px-Robert_Couturier%2C_Meisje_met_springtouw%2C_1951.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450199.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Robert_Couturier%2C_Meisje_met_springtouw%2C_1951.jpg/400px-Robert_Couturier%2C_Meisje_met_springtouw%2C_1951.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615783", 
             "urls": ["https://www.openstreetmap.org/node/3151450199","https://www.mapillary.com/map/im/y5Rj5Sl4gJUn7k9hHdpYae"]
@@ -1216,7 +1216,7 @@
             "name" : "Niobe",
             "description" : "Statue created by George Grard in 1947.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450201.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Georges_Grard%2C_Niobe%2C_1947-1948.jpg/400px-Georges_Grard%2C_Niobe%2C_1947-1948.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450201.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Georges_Grard%2C_Niobe%2C_1947-1948.jpg/400px-Georges_Grard%2C_Niobe%2C_1947-1948.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615701", 
             "urls": ["https://www.openstreetmap.org/node/3151450201","https://www.mapillary.com/map/im/GYfAJ8B7d92Lt3dram6tVQ"]
@@ -1243,11 +1243,11 @@
             "description" : "Sculpture created by Erwin Wurm in 2010.",
             "more" : "",
             "images" : [
-              "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450205_1.jpg",
-              "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450205_2.jpg",
-              "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450205_3.jpg",
-              "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450205_4.jpg",
-              "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450205_5.jpg",
+              "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450205_1.jpg",
+              "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450205_2.jpg",
+              "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450205_3.jpg",
+              "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450205_4.jpg",
+              "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450205_5.jpg",
               "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/One_Minute_Sculpture%2C_Erwin_Wurm.jpg/400px-One_Minute_Sculpture%2C_Erwin_Wurm.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q55717705", 
@@ -1261,7 +1261,7 @@
             "name" : "Opschik",
             "description" : "Statue created by Mark Macken in 1952.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450206.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mark_Macken%2C_Opschik%2C_1952.jpg/400px-Mark_Macken%2C_Opschik%2C_1952.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450206.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mark_Macken%2C_Opschik%2C_1952.jpg/400px-Mark_Macken%2C_Opschik%2C_1952.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615835", 
             "urls": ["https://www.openstreetmap.org/node/3151450206","https://www.mapillary.com/map/im/GQZqrfBh7MJaxRGERg0HQS"]
@@ -1274,7 +1274,7 @@
             "name" : "Phoenix",
             "description" : "Sculpture created by Ossip Zadkine in 1943.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450207.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Ossip_Zadkine%2C_Phoenix%2C_1944.jpg/400px-Ossip_Zadkine%2C_Phoenix%2C_1944.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450207.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Ossip_Zadkine%2C_Phoenix%2C_1944.jpg/400px-Ossip_Zadkine%2C_Phoenix%2C_1944.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615685", 
             "urls": ["https://www.openstreetmap.org/node/3151450207","https://www.mapillary.com/map/im/HQjBq14vsiraJA08qI6wqV"]
@@ -1300,7 +1300,7 @@
             "name" : "Raised Elevation",
             "description" : "Sculpture created by Leon Vranken in 2013.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450209.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Raised_Elevation_door_Leon_Vranken.jpg/400px-Raised_Elevation_door_Leon_Vranken.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450209.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Raised_Elevation_door_Leon_Vranken.jpg/400px-Raised_Elevation_door_Leon_Vranken.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q55759103", 
             "urls": ["https://www.openstreetmap.org/node/3151450209","https://www.mapillary.com/map/im/4ta1IJWjhrvSEYCNsC7Ln9"]
@@ -1326,7 +1326,7 @@
             "name" : "Schalenboom",
             "description" : "Sculpture created by Jean Arp in 1949.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450211.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Schalenboom%2C_Jean_Arp%2C_Middelheimmuseum_01.jpg/400px-Schalenboom%2C_Jean_Arp%2C_Middelheimmuseum_01.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450211.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Schalenboom%2C_Jean_Arp%2C_Middelheimmuseum_01.jpg/400px-Schalenboom%2C_Jean_Arp%2C_Middelheimmuseum_01.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615760", 
             "urls": ["https://www.openstreetmap.org/node/3151450211","https://www.mapillary.com/map/im/rVA02bm78qKH534AcglpDl"]
@@ -1339,7 +1339,7 @@
             "name" : "Sibilla",
             "description" : "Sculpture created by Pericle Fazzini in 1947.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450212.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Pericle_Fazzini%2C_Sibilla%2C_1947.jpg/400px-Pericle_Fazzini%2C_Sibilla%2C_1947.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450212.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Pericle_Fazzini%2C_Sibilla%2C_1947.jpg/400px-Pericle_Fazzini%2C_Sibilla%2C_1947.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615727", 
             "urls": ["https://www.openstreetmap.org/node/3151450212"]
@@ -1391,7 +1391,7 @@
             "name" : "Torso",
             "description" : "Sculpture created by Arthur Dupon in 1925.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450217.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Torso_door_Arthur_Dupon.jpg/400px-Torso_door_Arthur_Dupon.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450217.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Torso_door_Arthur_Dupon.jpg/400px-Torso_door_Arthur_Dupon.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615563", 
             "urls": ["https://www.openstreetmap.org/node/3151450217","https://www.mapillary.com/map/im/eMbBvrnwxjEPdiwWUTwkrz"]
@@ -1404,7 +1404,7 @@
             "name" : "Vogel en aarde",
             "description" : "Sculpture created by Leonie Molenaar in 1963.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450219.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Leonie_Molenaar%2C_Vogel_en_aarde%2C_1963.jpg/400px-Leonie_Molenaar%2C_Vogel_en_aarde%2C_1963.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450219.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Leonie_Molenaar%2C_Vogel_en_aarde%2C_1963.jpg/400px-Leonie_Molenaar%2C_Vogel_en_aarde%2C_1963.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616071", 
             "urls": ["https://www.openstreetmap.org/node/3151450219","https://www.mapillary.com/map/im/sg33VwxSvzRo0CuOeswvHL"]
@@ -1430,7 +1430,7 @@
             "name" : "Wandelende zusters",
             "description" : "Sculpture created by Elia Ajolfi in 1959.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3151450221.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Elia_Ajolfi%2C_Wandelende_zusters%2C_1960-1961.jpg/400px-Elia_Ajolfi%2C_Wandelende_zusters%2C_1960-1961.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3151450221.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Elia_Ajolfi%2C_Wandelende_zusters%2C_1960-1961.jpg/400px-Elia_Ajolfi%2C_Wandelende_zusters%2C_1960-1961.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616028", 
             "urls": ["https://www.openstreetmap.org/node/3151450221","https://www.mapillary.com/map/im/2XzlWT1lUkDYDQfoxKDO6K"]
@@ -1482,7 +1482,7 @@
             "name" : "A contre coeur",
             "description" : "Sculpture created by Reinhoud D'Haese in 1964.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173023480.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Reinhoud%2C_A_contre_coeur%2C_1965.jpg/400px-Reinhoud%2C_A_contre_coeur%2C_1965.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173023480.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Reinhoud%2C_A_contre_coeur%2C_1965.jpg/400px-Reinhoud%2C_A_contre_coeur%2C_1965.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616116", 
             "urls": ["https://www.openstreetmap.org/node/3173023480","https://www.mapillary.com/map/im/54aKlrkqNGxn55tntdFZba"]
@@ -1495,7 +1495,7 @@
             "name" : "Aan Victor Servranckx",
             "description" : "Sculpture created by Pol Spilliaert in 1975.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173023481.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Pol_Spilliaert%2C_Aan_Victor_Servranckx%2C_1975.jpg/400px-Pol_Spilliaert%2C_Aan_Victor_Servranckx%2C_1975.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173023481.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Pol_Spilliaert%2C_Aan_Victor_Servranckx%2C_1975.jpg/400px-Pol_Spilliaert%2C_Aan_Victor_Servranckx%2C_1975.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616325", 
             "urls": ["https://www.openstreetmap.org/node/3173023481","https://www.mapillary.com/map/im/K60xwdieFBC1I7YzhembRI"]
@@ -1508,7 +1508,7 @@
             "name" : "Anna Ancher",
             "description" : "Statue created by Astrid Noack in 1938.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173023482.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Astrid_Noack%2C_%22Anna_Ancher%22%2C_1939.jpg/400px-Astrid_Noack%2C_%22Anna_Ancher%22%2C_1939.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173023482.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Astrid_Noack%2C_%22Anna_Ancher%22%2C_1939.jpg/400px-Astrid_Noack%2C_%22Anna_Ancher%22%2C_1939.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615666", 
             "urls": ["https://www.openstreetmap.org/node/3173023482","https://www.mapillary.com/map/im/p0dkVkjII9Dt8hfuJzy7h4"]
@@ -1534,7 +1534,7 @@
             "name" : "Assia",
             "description" : "Statue created by Charles Despiau in 1936.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173023484.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Charles_Despiau%2C_Assia%2C_1937.jpg/400px-Charles_Despiau%2C_Assia%2C_1937.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173023484.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Charles_Despiau%2C_Assia%2C_1937.jpg/400px-Charles_Despiau%2C_Assia%2C_1937.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615644", 
             "urls": ["https://www.openstreetmap.org/node/3173023484","https://www.mapillary.com/map/im/Nu6VmeNx0sabdF8fLS8F5a"]
@@ -1547,7 +1547,7 @@
             "name" : "August Vermeylen",
             "description" : "Bust created by Idel Ianchelevici in 1935.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173023485.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Idel_Ianchelevici%2C_Buste_van_August_Vermeylen%2C_1935.jpg/400px-Idel_Ianchelevici%2C_Buste_van_August_Vermeylen%2C_1935.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173023485.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Idel_Ianchelevici%2C_Buste_van_August_Vermeylen%2C_1935.jpg/400px-Idel_Ianchelevici%2C_Buste_van_August_Vermeylen%2C_1935.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615632", 
             "urls": ["https://www.openstreetmap.org/node/3173023485","https://www.mapillary.com/map/im/YxfM2uMNyCWKIC40HwfhPS"]
@@ -1586,7 +1586,7 @@
             "name" : "Beweging II",
             "description" : "Sculpture created by Hilde Van Sumere in 1975.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173023489.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Beweging_II%2C_Hilde_Van_Sumere.jpg/400px-Beweging_II%2C_Hilde_Van_Sumere.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173023489.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Beweging_II%2C_Hilde_Van_Sumere.jpg/400px-Beweging_II%2C_Hilde_Van_Sumere.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616311", 
             "urls": ["https://www.openstreetmap.org/node/3173023489","https://www.mapillary.com/map/im/osbbOdwwTOdU8Zar8UdBfN"]
@@ -1612,7 +1612,7 @@
             "name" : "Buste van Rik Wouters",
             "description" : "Bust created by Rik Wouters in 1910.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173023491.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Rik_Wouters%2C_Buste_van_Rik_Wouters%2C_1911.jpg/400px-Rik_Wouters%2C_Buste_van_Rik_Wouters%2C_1911.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173023491.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Rik_Wouters%2C_Buste_van_Rik_Wouters%2C_1911.jpg/400px-Rik_Wouters%2C_Buste_van_Rik_Wouters%2C_1911.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615529", 
             "urls": ["https://www.openstreetmap.org/node/3173023491","https://www.mapillary.com/map/im/FlyEwrrBoVFDaQRx3MKjwo"]
@@ -1651,7 +1651,7 @@
             "name" : "De Gevleugelde",
             "description" : "Sculpture created by Friederich Werthmann in 1964.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173023496.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Friederich_Werthmann%2C_De_Gevleugelde%2C_1964.jpg/400px-Friederich_Werthmann%2C_De_Gevleugelde%2C_1964.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173023496.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Friederich_Werthmann%2C_De_Gevleugelde%2C_1964.jpg/400px-Friederich_Werthmann%2C_De_Gevleugelde%2C_1964.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616078", 
             "urls": ["https://www.openstreetmap.org/node/3173023496","https://www.mapillary.com/map/im/nwcRKtkm9YXepPcwJR6yvp"]
@@ -1703,7 +1703,7 @@
             "name" : "Dr. Koeberle",
             "description" : "Bust created by Antoine Bourdelle in 1914.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173023500.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Emile-Antoine_Bourdelle%2C_Dr._Koeberle%2C_1914.jpg/400px-Emile-Antoine_Bourdelle%2C_Dr._Koeberle%2C_1914.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173023500.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Emile-Antoine_Bourdelle%2C_Dr._Koeberle%2C_1914.jpg/400px-Emile-Antoine_Bourdelle%2C_Dr._Koeberle%2C_1914.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615543", 
             "urls": ["https://www.openstreetmap.org/node/3173023500","https://www.mapillary.com/map/im/R9UfH6HX6UkwpbS0s2fT0n"]
@@ -1755,7 +1755,7 @@
             "name" : "Francois Villon",
             "description" : "Bust created by Gustav Seitz in 1952.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173023504.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Gustav_Seitz%2C_Buste_van_Francois_Villon%2C_1952-1953.jpg/400px-Gustav_Seitz%2C_Buste_van_Francois_Villon%2C_1952-1953.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173023504.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Gustav_Seitz%2C_Buste_van_Francois_Villon%2C_1952-1953.jpg/400px-Gustav_Seitz%2C_Buste_van_Francois_Villon%2C_1952-1953.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615812", 
             "urls": ["https://www.openstreetmap.org/node/3173023504","https://www.mapillary.com/map/im/1z02X2jaeSicty2jkEeM6N"]
@@ -1794,7 +1794,7 @@
             "name" : "Torso eroico",
             "description" : "Heroïsch torso. Sculpture created by Marcello Mascherini in 1952.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173023507.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Marcello_Mascherini%2C_Hero%C3%AFsch_torso%2C_1952.jpg/400px-Marcello_Mascherini%2C_Hero%C3%AFsch_torso%2C_1952.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173023507.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Marcello_Mascherini%2C_Hero%C3%AFsch_torso%2C_1952.jpg/400px-Marcello_Mascherini%2C_Hero%C3%AFsch_torso%2C_1952.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615827", 
             "urls": ["https://www.openstreetmap.org/node/3173023507","https://www.mapillary.com/map/im/TPJULe8je0ZOo3ZBl8f8rG"]
@@ -1807,7 +1807,7 @@
             "name" : "Huiselijke zorgen",
             "description" : "Statue created by Rik Wouters in 1913.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173023508.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rik_Wouters%2C_Huiselijke_zorgen%2C_1913.jpg/400px-Rik_Wouters%2C_Huiselijke_zorgen%2C_1913.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173023508.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rik_Wouters%2C_Huiselijke_zorgen%2C_1913.jpg/400px-Rik_Wouters%2C_Huiselijke_zorgen%2C_1913.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q21647940", 
             "urls": ["https://www.openstreetmap.org/node/3173023508","https://www.mapillary.com/map/im/KhdUklUEdWpdJ6LkK80fMg"]
@@ -1820,7 +1820,7 @@
             "name" : "Judith",
             "description" : "Statue created by Marino Marini in 1945.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173023509.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Marino_Marini%2C_Judith%2C_1945.jpg/400px-Marino_Marini%2C_Judith%2C_1945.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173023509.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Marino_Marini%2C_Judith%2C_1945.jpg/400px-Marino_Marini%2C_Judith%2C_1945.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615693", 
             "urls": ["https://www.openstreetmap.org/node/3173023509","https://www.mapillary.com/map/im/STObut6vKHj7N7LiysQH4F"]
@@ -1846,7 +1846,7 @@
             "name" : "Laatste Bolwerk",
             "description" : "Sculpture created by Albin Courtois in 1963.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173023511.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173023511.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616064", 
             "urls": ["https://www.openstreetmap.org/node/3173023511","https://photos.app.goo.gl/C2gu138GC7Sk6cVH7"]
@@ -1859,7 +1859,7 @@
             "name" : "Jeune fille courant",
             "description" : "(Lopend meisje) Statue created by Kurt Gebauer in 1976.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173023512.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Kurt_Gebauer%2C_Lopend_meisje%2C_1976.jpg/400px-Kurt_Gebauer%2C_Lopend_meisje%2C_1976.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173023512.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Kurt_Gebauer%2C_Lopend_meisje%2C_1976.jpg/400px-Kurt_Gebauer%2C_Lopend_meisje%2C_1976.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616330", 
             "urls": ["https://www.openstreetmap.org/node/3173023512","https://www.mapillary.com/map/im/PluSDhQGUSAV9u6D2IuAQD"]
@@ -1872,7 +1872,7 @@
             "name" : "Manifestanten",
             "description" : "Sculpture created by Drago Tršar in 1957.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173023513.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Manifestanten%2C_Drago_Trsar%2C_Middelheimmuseum_03.jpg/400px-Manifestanten%2C_Drago_Trsar%2C_Middelheimmuseum_03.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173023513.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Manifestanten%2C_Drago_Trsar%2C_Middelheimmuseum_03.jpg/400px-Manifestanten%2C_Drago_Trsar%2C_Middelheimmuseum_03.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615947", 
             "urls": ["https://www.openstreetmap.org/node/3173023513","https://www.mapillary.com/map/im/zqClLbVfG4VFHyRDN26HOx"]
@@ -1911,7 +1911,7 @@
             "name" : "Nacht - Weefsel",
             "description" : "Sculpture created by Masayuki Nagare in 1973.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173023517.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Nacht_-_Weefsel%2C_Masayuki_Nagare%2C_Middelheimmuseum_01.jpg/400px-Nacht_-_Weefsel%2C_Masayuki_Nagare%2C_Middelheimmuseum_01.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173023517.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Nacht_-_Weefsel%2C_Masayuki_Nagare%2C_Middelheimmuseum_01.jpg/400px-Nacht_-_Weefsel%2C_Masayuki_Nagare%2C_Middelheimmuseum_01.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616289", 
             "urls": ["https://www.openstreetmap.org/node/3173023517","https://www.mapillary.com/map/im/UNyTvL2YX5u6XtiUg64P5U"]
@@ -1924,7 +1924,7 @@
             "name" : "Neushoorndier",
             "description" : "Sculpture created by Gérard Holmens in 1965.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173023518.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Neushoorndier%2C_Gerard_Holmens.jpg/400px-Neushoorndier%2C_Gerard_Holmens.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173023518.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Neushoorndier%2C_Gerard_Holmens.jpg/400px-Neushoorndier%2C_Gerard_Holmens.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616136", 
             "urls": ["https://www.openstreetmap.org/node/3173023518","https://www.mapillary.com/map/im/QR35O1cPihK1RcLtbFX3Yv"]
@@ -1937,7 +1937,7 @@
             "name" : "Ontwerp voor een monument",
             "description" : "Sculpture created by Francesco Somaini in 1960.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173023519.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Francesco_Somaini%2C_Ontwerp_voor_een_monument%2C_1961.jpg/400px-Francesco_Somaini%2C_Ontwerp_voor_een_monument%2C_1961.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173023519.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Francesco_Somaini%2C_Ontwerp_voor_een_monument%2C_1961.jpg/400px-Francesco_Somaini%2C_Ontwerp_voor_een_monument%2C_1961.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616049", 
             "urls": ["https://www.openstreetmap.org/node/3173023519","https://www.mapillary.com/map/im/B5Wfw3NFgV2HankE5VmA8Z"]
@@ -1950,7 +1950,7 @@
             "name" : "Orpheus",
             "description" : "Sculpture created by Ossip Zadkine in 1955.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173023520.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Ossip_Zadkine%2C_Orpheus%2C_1956.jpg/400px-Ossip_Zadkine%2C_Orpheus%2C_1956.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173023520.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Ossip_Zadkine%2C_Orpheus%2C_1956.jpg/400px-Ossip_Zadkine%2C_Orpheus%2C_1956.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615929", 
             "urls": ["https://www.openstreetmap.org/node/3173023520","https://www.mapillary.com/map/im/XwyT9ZXw6V46HdWayU1Kuw"]
@@ -1963,7 +1963,7 @@
             "name" : "Pandora",
             "description" : "Statue created by Edwin Scharff in 1952.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173023521.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Edwin_Scharf%2C_Pandora%2C_1952-1953.jpg/400px-Edwin_Scharf%2C_Pandora%2C_1952-1953.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173023521.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Edwin_Scharf%2C_Pandora%2C_1952-1953.jpg/400px-Edwin_Scharf%2C_Pandora%2C_1952-1953.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615815", 
             "urls": ["https://www.openstreetmap.org/node/3173023521","https://www.mapillary.com/map/im/6LO6gffoBfyFbds2koBJm2"]
@@ -1976,7 +1976,7 @@
             "name" : "Permeke",
             "description" : "Bust created by Henri Puvrez in 1942.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173023522.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Henri_Puvrez%2C_buste_van_Permeke%2C_1942.jpg/400px-Henri_Puvrez%2C_buste_van_Permeke%2C_1942.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173023522.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Henri_Puvrez%2C_buste_van_Permeke%2C_1942.jpg/400px-Henri_Puvrez%2C_buste_van_Permeke%2C_1942.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615674", 
             "urls": ["https://www.openstreetmap.org/node/3173023522","https://www.mapillary.com/map/im/dfewyosqh3BLrxizXs7jq9"]
@@ -1989,7 +1989,7 @@
             "name" : "Pointing Figure with a Child Opus 82",
             "description" : "Sculpture created by Bernard Meadows in 1965.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173023524.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bernard_Meadows%2C_Pointing_Figure_with_a_Child_Opus_82%2C_1966.jpg/400px-Bernard_Meadows%2C_Pointing_Figure_with_a_Child_Opus_82%2C_1966.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173023524.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bernard_Meadows%2C_Pointing_Figure_with_a_Child_Opus_82%2C_1966.jpg/400px-Bernard_Meadows%2C_Pointing_Figure_with_a_Child_Opus_82%2C_1966.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616133", 
             "urls": ["https://www.openstreetmap.org/node/3173023524","https://www.mapillary.com/map/im/5SYdQQ3e9d4CTe5kA1WyVn"]
@@ -2015,7 +2015,7 @@
             "name" : "Projet pour un jardin",
             "description" : "Sculpture created by Roman Signer in 2015.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173023526.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Projet_pour_un_jardin%2C_Roman_Signer%2C_2016.jpg/400px-Projet_pour_un_jardin%2C_Roman_Signer%2C_2016.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173023526.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Projet_pour_un_jardin%2C_Roman_Signer%2C_2016.jpg/400px-Projet_pour_un_jardin%2C_Roman_Signer%2C_2016.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q55717622", 
             "urls": ["https://www.openstreetmap.org/node/3173023526","https://www.mapillary.com/map/im/8qLxmGn7FPHHr3dzXIEoWL"]
@@ -2041,7 +2041,7 @@
             "name" : "Schaatsenrijdster",
             "description" : "Statue created by Giacomo Manzù in 1952.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173023530.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Giacomo_Manzu%2C_Schaatsenrijdster%2C_1957.jpg/400px-Giacomo_Manzu%2C_Schaatsenrijdster%2C_1957.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173023530.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Giacomo_Manzu%2C_Schaatsenrijdster%2C_1957.jpg/400px-Giacomo_Manzu%2C_Schaatsenrijdster%2C_1957.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q55645599", 
             "urls": ["https://www.openstreetmap.org/node/3173023530","https://www.mapillary.com/map/im/0Mwf6h3js5C3GekQVR5fwy"]
@@ -2054,7 +2054,7 @@
             "name" : "Sculptuur",
             "description" : "Sculpture created by Morice Lipsi in 1957.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173023531.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Sculptuur%2C_Morice_Lipsi%2C_Middelheim.jpg/400px-Sculptuur%2C_Morice_Lipsi%2C_Middelheim.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173023531.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Sculptuur%2C_Morice_Lipsi%2C_Middelheim.jpg/400px-Sculptuur%2C_Morice_Lipsi%2C_Middelheim.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615944", 
             "urls": ["https://www.openstreetmap.org/node/3173023531","https://www.mapillary.com/map/im/bigvbbbYDFE3Bq4OZI2xEX"]
@@ -2067,7 +2067,7 @@
             "name" : "Sculptuur",
             "description" : "Sculpture created by Gisleen Heirbaut in 1976.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173023532.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sculptuur%2C_Ghisleen_Heirbaut.jpg/400px-Sculptuur%2C_Ghisleen_Heirbaut.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173023532.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sculptuur%2C_Ghisleen_Heirbaut.jpg/400px-Sculptuur%2C_Ghisleen_Heirbaut.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q55736662", 
             "urls": ["https://www.openstreetmap.org/node/3173023532","https://www.mapillary.com/map/im/qxZJ0AXU3TQzjSLA1h1UGM"]
@@ -2080,7 +2080,7 @@
             "name" : "Sirene",
             "description" : "Statue created by Henri Puvrez in 1934.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173023533.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Henri_Puvrez%2C_Sirene%2C_1934.jpg/400px-Henri_Puvrez%2C_Sirene%2C_1934.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173023533.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Henri_Puvrez%2C_Sirene%2C_1934.jpg/400px-Henri_Puvrez%2C_Sirene%2C_1934.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615619", 
             "urls": ["https://www.openstreetmap.org/node/3173023533","https://www.mapillary.com/map/im/IyPzNGlSCuOQXXz52IAHLz"]
@@ -2093,7 +2093,7 @@
             "name" : "Skulptuur S 30",
             "description" : "Sculpture created by Marcel Arnould in 1964.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173023534.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Marcel_Arnould%2C_Skulptuur_S_30%2C_1965.jpg/400px-Marcel_Arnould%2C_Skulptuur_S_30%2C_1965.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173023534.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Marcel_Arnould%2C_Skulptuur_S_30%2C_1965.jpg/400px-Marcel_Arnould%2C_Skulptuur_S_30%2C_1965.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616108", 
             "urls": ["https://www.openstreetmap.org/node/3173023534","https://www.mapillary.com/map/im/BEmxRFiHEbumtvvUAiATx2"]
@@ -2119,7 +2119,7 @@
             "name" : "Steinbuch",
             "description" : "(Stenen boek) Sculpture created by Kubach-Wilmsen in 1980.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173023537.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Kubach-Wilmsen-Team%2C_Stenen_boek%2C_1980.jpg/400px-Kubach-Wilmsen-Team%2C_Stenen_boek%2C_1980.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173023537.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Kubach-Wilmsen-Team%2C_Stenen_boek%2C_1980.jpg/400px-Kubach-Wilmsen-Team%2C_Stenen_boek%2C_1980.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616357", 
             "urls": ["https://www.openstreetmap.org/node/3173023537","https://www.mapillary.com/map/im/xSrXYLmtnekGITk8OTMJgq"]
@@ -2132,7 +2132,7 @@
             "name" : "Toren der Stilte",
             "description" : "Sculpture created by Marta Colvin in 1960.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173023538.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Toren_der_Stilte%2C_Marta_Colvin%2C_Middelheimmuseum_02.jpg/400px-Toren_der_Stilte%2C_Marta_Colvin%2C_Middelheimmuseum_02.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173023538.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Toren_der_Stilte%2C_Marta_Colvin%2C_Middelheimmuseum_02.jpg/400px-Toren_der_Stilte%2C_Marta_Colvin%2C_Middelheimmuseum_02.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616037", 
             "urls": ["https://www.openstreetmap.org/node/3173023538","https://www.mapillary.com/map/im/P6IaFmdgRCN2Z0D2wZewAv"]
@@ -2145,7 +2145,7 @@
             "name" : "Torso",
             "description" : "Sculpture created by André Willequet in 1962.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173023539.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Torso%2C_Andre_Willequet%2C_Middelheimmuseum.jpg/400px-Torso%2C_Andre_Willequet%2C_Middelheimmuseum.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173023539.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Torso%2C_Andre_Willequet%2C_Middelheimmuseum.jpg/400px-Torso%2C_Andre_Willequet%2C_Middelheimmuseum.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616057", 
             "urls": ["https://www.openstreetmap.org/node/3173023539","https://www.mapillary.com/map/im/pNeOEIqdwO8BjSAskTS0Kt"]
@@ -2158,7 +2158,7 @@
             "name" : "Twee zittende figuren",
             "description" : "Sculpture created by Kenneth Armitage in 1957.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173023540.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Kenneth_Armitage%2C_Twee_zittende_figuren%2C_1957.jpg/400px-Kenneth_Armitage%2C_Twee_zittende_figuren%2C_1957.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173023540.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Kenneth_Armitage%2C_Twee_zittende_figuren%2C_1957.jpg/400px-Kenneth_Armitage%2C_Twee_zittende_figuren%2C_1957.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615970", 
             "urls": ["https://www.openstreetmap.org/node/3173023540","https://www.mapillary.com/map/im/ilzXcyqTb1wlAOsnOmLAaI"]
@@ -2171,7 +2171,7 @@
             "name" : "Twee zwangere vrouwen",
             "description" : "Sculpture created by Charles Leplae in 1952.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173023541.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Charles_Leplae%2C_Twee_zwangere_vrouwen%2C_1952-1953.jpg/400px-Charles_Leplae%2C_Twee_zwangere_vrouwen%2C_1952-1953.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173023541.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Charles_Leplae%2C_Twee_zwangere_vrouwen%2C_1952-1953.jpg/400px-Charles_Leplae%2C_Twee_zwangere_vrouwen%2C_1952-1953.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615806", 
             "urls": ["https://www.openstreetmap.org/node/3173023541","https://www.mapillary.com/map/im/M7HCll93duHu6oNOTMJxX3"]
@@ -2184,7 +2184,7 @@
             "name" : "Ursula",
             "description" : "Statue created by Julio López Hernández in 1964.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173023542.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Julio_L._Hernandez%2C_Ursula%2C_1965.jpg/400px-Julio_L._Hernandez%2C_Ursula%2C_1965.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173023542.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Julio_L._Hernandez%2C_Ursula%2C_1965.jpg/400px-Julio_L._Hernandez%2C_Ursula%2C_1965.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616112", 
             "urls": ["https://www.openstreetmap.org/node/3173023542","https://www.mapillary.com/map/im/7x8uK0NkDYLGNXGPHy4D54"]
@@ -2197,7 +2197,7 @@
             "name" : "Venus Victrix",
             "description" : "Statue created by Pierre-Auguste Renoir in 1914.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173023543.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Auguste_Renoir%2C_Venus_Victrix%2C_1914.jpg/400px-Auguste_Renoir%2C_Venus_Victrix%2C_1914.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173023543.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Auguste_Renoir%2C_Venus_Victrix%2C_1914.jpg/400px-Auguste_Renoir%2C_Venus_Victrix%2C_1914.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615540", 
             "urls": ["https://www.openstreetmap.org/node/3173023543","https://www.mapillary.com/map/im/X8fNgvrCJHpvcWMIOJUAvs"]
@@ -2223,7 +2223,7 @@
             "name" : "Zo kwam ze in mijn wereld met een oogopslag",
             "description" : "Sculpture created by Hubert Minnebo in 1980.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173023545.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hubert_Minnebo%2C_Zo_kwam_ze_in_...%2C_1980.jpg/400px-Hubert_Minnebo%2C_Zo_kwam_ze_in_...%2C_1980.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173023545.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hubert_Minnebo%2C_Zo_kwam_ze_in_...%2C_1980.jpg/400px-Hubert_Minnebo%2C_Zo_kwam_ze_in_...%2C_1980.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616354", 
             "urls": ["https://www.openstreetmap.org/node/3173023545","https://www.mapillary.com/map/im/eo7EERGLG9voAPfOy9Qn4i"]
@@ -2262,7 +2262,7 @@
             "name" : "Zonnesculptuur",
             "description" : "Sculpture created by Arnold Haukeland in 1969.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173023548.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Zonnesculptuur%2C_Arnold_Haukeland%2C_Middelheim_02.jpg/400px-Zonnesculptuur%2C_Arnold_Haukeland%2C_Middelheim_02.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173023548.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Zonnesculptuur%2C_Arnold_Haukeland%2C_Middelheim_02.jpg/400px-Zonnesculptuur%2C_Arnold_Haukeland%2C_Middelheim_02.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616201", 
             "urls": ["https://www.openstreetmap.org/node/3173023548","https://www.mapillary.com/map/im/uDKh8KPPrI6AHvMaNMme9w"]
@@ -2301,7 +2301,7 @@
             "name" : "1/24x23x22x...x1",
             "description" : "Sculpture created by Bert De Leeuw in 1970.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3173025056.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/1_24_x_23_x_22_x_x_1%2C_Bert_De_Leeuw_Middelheimmuseum_%283%29.jpg/400px-1_24_x_23_x_22_x_x_1%2C_Bert_De_Leeuw_Middelheimmuseum_%283%29.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3173025056.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/1_24_x_23_x_22_x_x_1%2C_Bert_De_Leeuw_Middelheimmuseum_%283%29.jpg/400px-1_24_x_23_x_22_x_x_1%2C_Bert_De_Leeuw_Middelheimmuseum_%283%29.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q21648966", 
             "urls": ["https://www.openstreetmap.org/node/3173025056","https://www.mapillary.com/map/im/hpq0XS94XCqHIoT6XOhqvQ"]
@@ -2314,7 +2314,7 @@
             "name" : "Bronzen Tijdperk",
             "description" : "Sculpture created by Auguste Rodin in 1875.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/3626856997.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bronzen_Tijdperk_door_Auguste_Rodin%2C_1876.jpg/400px-Bronzen_Tijdperk_door_Auguste_Rodin%2C_1876.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/3626856997.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bronzen_Tijdperk_door_Auguste_Rodin%2C_1876.jpg/400px-Bronzen_Tijdperk_door_Auguste_Rodin%2C_1876.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q21647332", 
             "urls": ["https://www.openstreetmap.org/node/3626856997","https://www.mapillary.com/map/im/cYl38Zfrg92Lypn8c92y8m"]
@@ -2366,7 +2366,7 @@
             "name" : "Oceanide",
             "description" : "Sculpture created by Henri Laurens in 1932.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/4326412715.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Henri_Laurens%2C_Oceanide%2C_1933.jpg/400px-Henri_Laurens%2C_Oceanide%2C_1933.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/4326412715.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Henri_Laurens%2C_Oceanide%2C_1933.jpg/400px-Henri_Laurens%2C_Oceanide%2C_1933.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615611", 
             "urls": ["https://www.openstreetmap.org/node/4326412715","https://www.mapillary.com/map/im/kTyn6uHKpxqb8VKV0rfvSk"]
@@ -2379,7 +2379,7 @@
             "name" : "Mama",
             "description" : "Sculpture created by Jef Geys in 2002.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/4327384984.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Jef_Geys%2C_Mama%2C_2002_01.jpg/400px-Jef_Geys%2C_Mama%2C_2002_01.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/4327384984.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Jef_Geys%2C_Mama%2C_2002_01.jpg/400px-Jef_Geys%2C_Mama%2C_2002_01.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616145", 
             "urls": ["https://www.openstreetmap.org/node/4327384984"]
@@ -2392,7 +2392,7 @@
             "name" : "Volubilis",
             "description" : "Sculpture created by Jean-Pierre Ghysels in 1966.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/4327384985.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Jean-Pierre_Ghysels%2C_Volubilis%2C_1967.jpg/400px-Jean-Pierre_Ghysels%2C_Volubilis%2C_1967.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/4327384985.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Jean-Pierre_Ghysels%2C_Volubilis%2C_1967.jpg/400px-Jean-Pierre_Ghysels%2C_Volubilis%2C_1967.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616145", 
             "urls": ["https://www.openstreetmap.org/node/4327384985","https://www.mapillary.com/map/im/X5YztPOzU6k7a5jl5SWLWV"]
@@ -2405,7 +2405,7 @@
             "name" : "Zang",
             "description" : "Sculpture created by Shin Hongō in 1966.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/4327384986.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Shin_Hongo%2C_Zang%2C_1967.jpg/400px-Shin_Hongo%2C_Zang%2C_1967.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/4327384986.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Shin_Hongo%2C_Zang%2C_1967.jpg/400px-Shin_Hongo%2C_Zang%2C_1967.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616139", 
             "urls": ["https://www.openstreetmap.org/node/4327384986","https://www.mapillary.com/map/im/ik4FJLt3vjb75SiquT6L0W"]
@@ -2431,7 +2431,7 @@
             "name" : "Gerestaureerd \"Magnetisch Veld\"",
             "description" : "Sculpture created by Panamarenko in 1981.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/4331721880.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Panamarenko%2C_Gerestaureerd_%22Magnetisch_Veld%22%2C1983-2015.jpg/400px-Panamarenko%2C_Gerestaureerd_%22Magnetisch_Veld%22%2C1983-2015.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/4331721880.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Panamarenko%2C_Gerestaureerd_%22Magnetisch_Veld%22%2C1983-2015.jpg/400px-Panamarenko%2C_Gerestaureerd_%22Magnetisch_Veld%22%2C1983-2015.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q55759030", 
             "urls": ["https://www.openstreetmap.org/node/4331721880","https://www.mapillary.com/map/im/Og1oCwEtq0hjYnVwfpJAVz"]
@@ -2444,7 +2444,7 @@
             "name" : "Misconceivable",
             "description" : "Sculpture created by Erwin Wurm in 2007.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/4334413694.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Erwin_Wurm%2C_If_you_moor_your_boat_here%2C_strange_things_will_happen.jpg/400px-Erwin_Wurm%2C_If_you_moor_your_boat_here%2C_strange_things_will_happen.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/4334413694.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Erwin_Wurm%2C_If_you_moor_your_boat_here%2C_strange_things_will_happen.jpg/400px-Erwin_Wurm%2C_If_you_moor_your_boat_here%2C_strange_things_will_happen.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616515", 
             "urls": ["https://www.openstreetmap.org/node/4334413694"]
@@ -2522,7 +2522,7 @@
             "name" : "Geknielde figuur",
             "description" : "Sculpture created by Eugène Dodeigne in 1970.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/5614142092.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Geknielde_figuur%2C_Eugene_Dodeigne%2C_1970.jpg/400px-Geknielde_figuur%2C_Eugene_Dodeigne%2C_1970.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/5614142092.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Geknielde_figuur%2C_Eugene_Dodeigne%2C_1970.jpg/400px-Geknielde_figuur%2C_Eugene_Dodeigne%2C_1970.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616241", 
             "urls": ["https://www.openstreetmap.org/node/5614142092","https://www.mapillary.com/map/im/2KO3AsmuHUVAecw28nBLms"]
@@ -2535,7 +2535,7 @@
             "name" : "Battle",
             "description" : "Sculpture created by Amarnath Sehgal.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/5615526651.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Battle%2C_Amar_Nath_Sehgal%2C_Middelheim.jpg/400px-Battle%2C_Amar_Nath_Sehgal%2C_Middelheim.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/5615526651.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Battle%2C_Amar_Nath_Sehgal%2C_Middelheim.jpg/400px-Battle%2C_Amar_Nath_Sehgal%2C_Middelheim.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q55460974", 
             "urls": ["https://www.openstreetmap.org/node/5615526651","https://www.mapillary.com/map/im/n6FcIhfwe5HrSlo6E0a451"]
@@ -2652,7 +2652,7 @@
             "name" : "Omlaagkijkend meisje",
             "description" : "Statue created by Reg Butler in 1955.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/5710075090.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Omlaagkijkend_meisje%2C_Reg_Butler%2C_Middelheimmuseum.jpg/400px-Omlaagkijkend_meisje%2C_Reg_Butler%2C_Middelheimmuseum.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/5710075090.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Omlaagkijkend_meisje%2C_Reg_Butler%2C_Middelheimmuseum.jpg/400px-Omlaagkijkend_meisje%2C_Reg_Butler%2C_Middelheimmuseum.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27615912", 
             "urls": ["https://www.openstreetmap.org/node/5710075090","https://www.mapillary.com/map/im/fKLsM8xFPODhjxbYmZ4hrb"]
@@ -2717,7 +2717,7 @@
             "name" : "Dialoog",
             "description" : "Sculpture created by Albert Szukalski in 1974.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/5729019693.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Dialoog%2C_Albert_Szukalski.jpg/400px-Dialoog%2C_Albert_Szukalski.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/5729019693.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Dialoog%2C_Albert_Szukalski.jpg/400px-Dialoog%2C_Albert_Szukalski.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616293", 
             "urls": ["https://www.openstreetmap.org/node/5729019693","https://www.mapillary.com/map/im/4YzYTu3PWZgQeWl6PzEAIE"]
@@ -2795,7 +2795,7 @@
             "name" : "Two reclining figures",
             "description" : "On a calder base (2006)",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/8237217708.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Peter_Rogiers_Two_reclining_figures_on_a_calder_base_2006.jpg/400px-Peter_Rogiers_Two_reclining_figures_on_a_calder_base_2006.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/8237217708.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Peter_Rogiers_Two_reclining_figures_on_a_calder_base_2006.jpg/400px-Peter_Rogiers_Two_reclining_figures_on_a_calder_base_2006.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "", 
             "urls": ["https://www.openstreetmap.org/node/8237217708","https://images.mapillary.com/k2KoGDe1OyzilZlBqUrerE/thumb-2048.jpg"]
@@ -2808,7 +2808,7 @@
             "name" : "Morgen is alles andres",
             "description" : "Sculpture created by Henk Visch in 1993.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/8238912715.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Henk_Visch%2C_Morgen_is_alles_anders%2C_1996.jpg/400px-Henk_Visch%2C_Morgen_is_alles_anders%2C_1996.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/8238912715.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Henk_Visch%2C_Morgen_is_alles_anders%2C_1996.jpg/400px-Henk_Visch%2C_Morgen_is_alles_anders%2C_1996.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27616424", 
             "urls": ["https://www.openstreetmap.org/node/8238912715","https://www.mapillary.com/map/im/em6IeymJIxB54pSvcWEdR7"]
@@ -2821,7 +2821,7 @@
             "name" : "Staand meisje",
             "description" : "Statue by Hans Wimmer, created in 1956",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/8240275391.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/8240275391.jpg"],
             "attributions": ["Source: OpenStreetMap", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "", 
             "urls": ["https://www.openstreetmap.org/node/8240275391","https://www.mapillary.com/map/im/qyPebPUDZFkzw8xfdkY4Im"]
@@ -2860,7 +2860,7 @@
             "name" : "Leonardo Swirl",
             "description" : "Sculpture created by Alice Aycock in 1982.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/Q27616362.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Alice_Aycock%2C_Leonardo_Swirl%2C_1982.jpg/640px-Alice_Aycock%2C_Leonardo_Swirl%2C_1982.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/Q27616362.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Alice_Aycock%2C_Leonardo_Swirl%2C_1982.jpg/640px-Alice_Aycock%2C_Leonardo_Swirl%2C_1982.jpg"],
             "attributions": ["Source: Wikidata", "Commons Category: Leonardo Swirl (Alice Aycock)" ],
             "wikidata": "Q27616362", 
             "urls": ["https://search.middelheimmuseum.be/Details/collect/148126"]
@@ -2873,7 +2873,7 @@
             "name" : "Vrouwentorso",
             "description" : "(Female torso) Sculpture created by Alberto Viani in 1954.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/Q27627558.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/Q27627558.jpg"],
             "attributions": ["Source: Wikidata" ],
             "wikidata": "Q27627558", 
             "urls": ["https://search.middelheimmuseum.be/Details/collect/148184"]
@@ -2886,7 +2886,7 @@
             "name" : "Pirmavent III",
             "description" : "(Firmament III) Three-dimensional net around a void in the form of human being, ten times larger. Artwork created by Antony Gormley in 2009.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/Q27616513.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/Q27616513.jpg"],
             "attributions": ["Source: Wikidata" ],
             "wikidata": "Q27616513", 
             "urls": ["https://search.middelheimmuseum.be/Details/collect/344756"]
@@ -2899,7 +2899,7 @@
             "name" : "Pirmavent III",
             "description" : "(Beam Drop) Sculpture created by Chris Burden in 2009.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/Q27630203.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Chris_Burden%2C_Beam_Drop%2C_2009_01.jpg/640px-Chris_Burden%2C_Beam_Drop%2C_2009_01.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/Q27630203.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Chris_Burden%2C_Beam_Drop%2C_2009_01.jpg/640px-Chris_Burden%2C_Beam_Drop%2C_2009_01.jpg"],
             "attributions": ["Source: Wikidata", "Source: Museums and Heritage Antwerp" ],
             "wikidata": "Q27630203", 
             "urls": ["https://search.middelheimmuseum.be/Details/collect/216250"]
@@ -2912,7 +2912,7 @@
             "name" : "The Bridge Without A Name",
             "description" : "Bridge created by Ai Weiwei in 2012.",
             "more" : "",
-            "images" : ["https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/be/antwerpen/middelheimmuseum/images/Q27616527.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ai_Weiwei%2C_The_Bridge_without_a_Name%2C_2012.jpg/512px-Ai_Weiwei%2C_The_Bridge_without_a_Name%2C_2012.jpg"],
+            "images" : ["https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/be/antwerpen/middelheimmuseum/images/Q27616527.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ai_Weiwei%2C_The_Bridge_without_a_Name%2C_2012.jpg/512px-Ai_Weiwei%2C_The_Bridge_without_a_Name%2C_2012.jpg"],
             "attributions": ["Source: Wikidata", "Source: Middelheim Museum" ],
             "wikidata": "Q27616527", 
             "urls": ["https://search.middelheimmuseum.be/Details/collect/339771"]

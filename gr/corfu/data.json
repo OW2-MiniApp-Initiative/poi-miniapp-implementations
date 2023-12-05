@@ -4,7 +4,7 @@
         "app_title": "Best of Kerkyra",
         "version": 1,
         "updated": "2022-08-01",
-        "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/corfu/data.json",
+        "source_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/corfu/data.json",
         "matomo_base_url": "https://matomo.pbest.me/matomo.php?idsite=1&rec=1",        
         "marketplace_url": ""
     },
@@ -15,12 +15,12 @@
                     "brand": "#67DAD7",
                     "complementary": "#BDF067"
                 },
-                "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/tree/main/docs/gr/corfu",
+                "repository_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/tree/main/docs/gr/corfu",
                 "text_info": "This app is based on crowdsourcing. As you can see, it's also free of charge. Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures.",
                 "text_acknowledge": "This quick app is an open-source project powered by open data and enriched by the community. Most of the information was extracted from Wikidata, OpenStreetMaps, and other public sources. You can find inaccuracies, so we apologize in advance.",
                 "text_feedback": "Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures.",
-                "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/corfu/#get-involved",
-                "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/issues/new?labels=gr/corfu&template=update_request.md&title=Update+Request"
+                "feedback_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/corfu/#get-involved",
+                "issue_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp/issues/new?labels=gr/corfu&template=update_request.md&title=Update+Request"
             },
             "pois": [
                 {

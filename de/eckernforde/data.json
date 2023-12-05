@@ -4,7 +4,7 @@
         "app_title": "Eckernförde Street Heritage",
         "version": 5,
         "updated": "2022-10-18",
-        "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/de/eckernforde/data.json",
+        "source_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/de/eckernforde/data.json",
         "matomo_base_url": "https://matomo.pbest.me/matomo.php?idsite=1&rec=1",        
         "marketplace_url": ""
     },
@@ -15,12 +15,12 @@
                     "brand": "#ED1C24",
                     "complementary": "#FFF200"
                 },
-                "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/tree/main/docs/de/eckernforde",
+                "repository_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/tree/main/docs/de/eckernforde",
                 "text_info": "Diese App wird von Einheimischen und Experten erstellt. Wie Sie sehen können, ist es auch kostenlos. Bitte lassen Sie uns wissen, wenn Sie mit Ihrer Erfahrung beitragen, den Inhalt bereichern, Ungenauigkeiten korrigieren oder Bilder einreichen möchten. Bitte beachten Sie, dass es keine offizielle App ist",
                 "text_acknowledge": "Diese schnelle App ist ein Open-Source-Projekt, das auf offenen Daten basiert und von der Community angereichert wird. Die meisten Informationen stammen aus öffentlichen Quellen. Sie können Ungenauigkeiten finden, daher entschuldigen wir uns im Voraus.",
                 "text_feedback": "Bitte lassen Sie uns wissen, wenn Sie mit Ihren Erfahrungen beitragen, den Inhalt bereichern, Ungenauigkeiten korrigieren oder Bilder einreichen möchten. Diese App wird von Einheimischen und Experten erstellt.",                
-                "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/de/eckernforde/#get-involved",
-                "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/issues/new?labels=de/eckernforde&template=update_request.md&title=Update+Request"
+                "feedback_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/de/eckernforde/#get-involved",
+                "issue_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/issues/new?labels=de/eckernforde&template=update_request.md&title=Update+Request"
             },
            "pois" : [
                 {
@@ -790,12 +790,12 @@
                     "brand": "#ED1C24",
                     "complementary": "#FFF200"
                 },
-                "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/tree/main/docs/de/eckernforde",
+                "repository_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/tree/main/docs/de/eckernforde",
                 "text_info": "This app is created by locals and experts. As you can see, it's also free of charge. Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures. Please, note that it's not an official app.",
                 "text_acknowledge": "This quick app is an open-source project powered by open data and enriched by the community. Most of the information was extracted from public sources. You can find inaccuracies, so we apologize in advance.",
                 "text_feedback": "Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures. This app is created by locals and experts.",
-                "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/de/eckernforde/#get-involved",
-                "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/issues/new?labels=de/eckernforde&template=update_request.md&title=Update+Request"
+                "feedback_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/de/eckernforde/#get-involved",
+                "issue_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/issues/new?labels=de/eckernforde&template=update_request.md&title=Update+Request"
             },
            "pois" : [
             {
@@ -1565,12 +1565,12 @@
                     "brand": "#ED1C24",
                     "complementary": "#FFF200"
                 },
-                "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/tree/main/docs/de/eckernforde",
+                "repository_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/tree/main/docs/de/eckernforde",
                 "text_info": "这个程序是由当地人和专家创建的。如您所见，它也是免费的。如果您想贡献您的经验，丰富内容，纠正不准确之处或提交图像，请告诉我们。请注意，它不是一个官方的应用程序",
                 "text_acknowledge": "这款快速应用是一个基于开放数据的开源项目，由社区丰富。大多数信息来自公共来源。您可能会发现不准确之处，因此我们提前道歉。",
                 "text_feedback": "如果您想为您的体验做出贡献，丰富内容，纠正任何不准确之处，或提交图片，请告知我们。这个应用程序是由当地人和专家创建的。",                
-                "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/de/eckernforde/#get-involved",
-                "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/issues/new?labels=de/eckernforde&template=update_request.md&title=Update+Request"
+                "feedback_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/de/eckernforde/#get-involved",
+                "issue_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/issues/new?labels=de/eckernforde&template=update_request.md&title=Update+Request"
             },
             "pois" : [
             {
