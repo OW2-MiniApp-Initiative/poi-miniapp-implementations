@@ -1,0 +1,209 @@
+{
+    "meta": {
+        "app_id": "es.espinr.oslo_deepseek",
+        "app_title": "Oslo Attractions",
+        "version": 1,
+        "updated": "2025-06-23",
+        "source_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/no/oslo/data.json",
+        "matomo_base_url": "https://matomo.pbest.me/matomo.php?idsite=1&rec=1",        
+        "marketplace_url": ""
+    },
+    "content": {
+        "en": {
+            "app": {
+                "theme": {
+                    "brand": "#da121a",
+                    "complementary": "#000000"
+                },
+                "repository_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/tree/main/docs/no/oslo",
+                "text_info": "This app is created by enthusiasts, asking Deekseek to generate a basic document with the top attractions in Oslo. As you can see, it's also free of charge. Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures. Please, note that it's not an official app.",
+                "text_acknowledge": "This app is an open-source project powered by open data and enriched by the community. Most of the information was extracted from the Wikipedia and for testing purposes (to demonstrate in the IGF'25 that we can create an app in minutes.",
+                "text_feedback": "Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures.",
+                "feedback_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/no/oslo/#get-involved",
+                "issue_url": "https://github.com/ow2-miniapp-initiative/poi-miniapp-implementations/issues/new?labels=no/oslo&template=update_request.md&title=Update%20Request"
+            },
+        "pois": [
+          {
+            "id": "00001",
+            "type": "Cultural & Historical",
+            "lon": "10.6844",
+            "lat": "59.9048",
+            "name": "Viking Ship Museum",
+            "description": "Houses three original Viking ships and artifacts from burial sites.",
+            "more": "Currently closed for renovation (reopening as part of the new Museum of the Viking Age). Known for the Oseberg and Gokstad ships.",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Viking_Ship_Museum_Oslo.jpg/640px-Viking_Ship_Museum_Oslo.jpg"],
+            "attributions": ["Image under CC BY-SA 4.0"],
+            "URLs": ["https://en.wikipedia.org/wiki/Viking_Ship_Museum_(Oslo)"]
+          },
+          {
+            "id": "00002",
+            "type": "Cultural & Historical",
+            "lon": "10.7606",
+            "lat": "59.9072",
+            "name": "Munch Museum",
+            "description": "Dedicated to Edvard Munch, featuring The Scream and other expressionist works.",
+            "more": "The new museum (opened 2021) has 11 floors of exhibits, including rotating displays of his 28,000 works.",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Munchmuseet_2021.jpg/640px-Munchmuseet_2021.jpg"],
+            "attributions": ["Image under CC BY-SA 4.0"],
+            "URLs": ["https://en.wikipedia.org/wiki/Munch_Museum"]
+          },
+          {
+            "id": "00003",
+            "type": "Cultural & Historical",
+            "lon": "10.6855",
+            "lat": "59.9079",
+            "name": "Norwegian Folk Museum",
+            "description": "Open-air museum with 160 historic buildings, including a stave church.",
+            "more": "Hosts cultural events, folk dancing, and exhibits on Sami culture. One of Europe's oldest open-air museums.",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Gol_Stave_Church_in_Oslo.jpg/640px-Gol_Stave_Church_in_Oslo.jpg"],
+            "attributions": ["Image under Public Domain"],
+            "URLs": ["https://en.wikipedia.org/wiki/Norsk_Folkemuseum"]
+          },
+          {
+            "id": "00004",
+            "type": "Cultural & Historical",
+            "lon": "10.6999",
+            "lat": "59.9034",
+            "name": "Fram Museum",
+            "description": "Showcases the Fram, the ship used by polar explorers like Amundsen.",
+            "more": "Interactive exhibits on Arctic/Antarctic expeditions. Visitors can board the ship.",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Frammuseet_Oslo.jpg/640px-Frammuseet_Oslo.jpg"],
+            "attributions": ["Image under CC BY-SA 3.0"],
+            "URLs": ["https://en.wikipedia.org/wiki/Fram_Museum"]
+          },
+          {
+            "id": "00005",
+            "type": "Cultural & Historical",
+            "lon": "10.6986",
+            "lat": "59.9028",
+            "name": "Kon-Tiki Museum",
+            "description": "Displays Thor Heyerdahl's Kon-Tiki raft and Ra II papyrus boat.",
+            "more": "Focuses on his transoceanic expeditions. Adjacent to the Fram Museum.",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Kon-Tiki_Museum.jpg/640px-Kon-Tiki_Museum.jpg"],
+            "attributions": ["Image under CC BY-SA 3.0"],
+            "URLs": ["https://en.wikipedia.org/wiki/Kon-Tiki_Museum"]
+          },
+          {
+            "id": "00006",
+            "type": "Cultural & Historical",
+            "lon": "10.7276",
+            "lat": "59.9169",
+            "name": "Royal Palace",
+            "description": "Official residence of Norway's monarch, set in Slottsparken park.",
+            "more": "Guided tours in summer. The changing of the guard occurs daily at 1:30 PM.",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Royal_Palace_Oslo.jpg/640px-Royal_Palace_Oslo.jpg"],
+            "attributions": ["Image under CC BY-SA 4.0"],
+            "URLs": ["https://en.wikipedia.org/wiki/Royal_Palace,_Oslo"]
+          },
+          {
+            "id": "00007",
+            "type": "Cultural & Historical",
+            "lon": "10.7367",
+            "lat": "59.9075",
+            "name": "Akershus Fortress",
+            "description": "Medieval castle with museums and views of the fjord.",
+            "more": "Includes the Resistance Museum (WWII history) and Norway's Armed Forces Museum.",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Akershus_Castle_2019.jpg/640px-Akershus_Castle_2019.jpg"],
+            "attributions": ["Image under CC BY-SA 4.0"],
+            "URLs": ["https://en.wikipedia.org/wiki/Akershus_Fortress"]
+          },
+          {
+            "id": "00008",
+            "type": "Cultural & Historical",
+            "lon": "10.7525",
+            "lat": "59.9076",
+            "name": "Oslo Opera House",
+            "description": "Iconic marble-and-glass building where visitors walk on the angled roof.",
+            "more": "Home to the Norwegian National Opera and Ballet. Free rooftop access year-round.",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Operahuset_Oslo.jpg/640px-Operahuset_Oslo.jpg"],
+            "attributions": ["Image under CC BY-SA 3.0"],
+            "URLs": ["https://en.wikipedia.org/wiki/Oslo_Opera_House"]
+          },
+          {
+            "id": "00009",
+            "type": "Cultural & Historical",
+            "lon": "10.7405",
+            "lat": "59.9179",
+            "name": "National Museum",
+            "description": "Norway's largest art collection, from ancient to modern (including The Scream).",
+            "more": "Opened in 2022, it combines former National Gallery, Architecture Museum, and more.",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Nasjonalmuseet_Oslo.jpg/640px-Nasjonalmuseet_Oslo.jpg"],
+            "attributions": ["Image under CC BY-SA 4.0"],
+            "URLs": ["https://en.wikipedia.org/wiki/National_Museum_of_Art,_Architecture_and_Design"]
+          },
+          {
+            "id": "00010",
+            "type": "Outdoor & Scenic",
+            "lon": "10.6996",
+            "lat": "59.9271",
+            "name": "Vigeland Sculpture Park",
+            "description": "Features 200+ bronze/granite sculptures by Gustav Vigeland, including the Monolith.",
+            "more": "Part of Frogner Park. The park is free and open 24/7. Vigeland also designed the gates.",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Vigelandsanlegget.jpg/640px-Vigelandsanlegget.jpg"],
+            "attributions": ["Image under Public Domain"],
+            "URLs": ["https://en.wikipedia.org/wiki/Vigeland_Sculpture_Park"]
+          },
+          {
+            "id": "00011",
+            "type": "Outdoor & Scenic",
+            "lon": "10.6694",
+            "lat": "59.9637",
+            "name": "Holmenkollen Ski Jump",
+            "description": "Historic ski jump with a museum and panoramic views.",
+            "more": "Hosts World Cup events. The museum covers 4,000 years of skiing history.",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Holmenkollbakken_2010.jpg/640px-Holmenkollbakken_2010.jpg"],
+            "attributions": ["Image under CC BY-SA 3.0"],
+            "URLs": ["https://en.wikipedia.org/wiki/Holmenkollen_National_Arena"]
+          },
+          {
+            "id": "00012",
+            "type": "Outdoor & Scenic",
+            "lon": "10.6883",
+            "lat": "59.9036",
+            "name": "Bygdøy Peninsula",
+            "description": "Green area with beaches (Huk) and major museums (Viking Ship, Fram, Kon-Tiki).",
+            "more": "A popular spot for cycling, swimming, and picnics. Reachable by ferry or bus.",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bygdøy_fergekai.jpg/640px-Bygdøy_fergekai.jpg"],
+            "attributions": ["Image under CC BY-SA 3.0"],
+            "URLs": ["https://en.wikipedia.org/wiki/Bygdøy"]
+          },
+          {
+            "id": "00013",
+            "type": "Outdoor & Scenic",
+            "lon": "10.7333",
+            "lat": "59.8833",
+            "name": "Oslo Fjord Islands",
+            "description": "Archipelago with hiking trails, beaches, and historic ruins (e.g., Hovedøya).",
+            "more": "Gressholmen is known for its rabbits; Langøyene has camping spots.",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hovedøya.jpg/640px-Hovedøya.jpg"],
+            "attributions": ["Image under CC BY-SA 3.0"],
+            "URLs": ["https://en.wikipedia.org/wiki/Oslofjord"]
+          },
+          {
+            "id": "00014",
+            "type": "Modern & Unique",
+            "lon": "10.7211",
+            "lat": "59.9069",
+            "name": "Astrup Fearnley Museum",
+            "description": "Modern art museum in Tjuvholmen, featuring works by Damien Hirst and Jeff Koons.",
+            "more": "Designed by Renzo Piano. Adjacent to a sculpture park and the fjord.",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Astrup_Fearnley_Museet.jpg/640px-Astrup_Fearnley_Museet.jpg"],
+            "attributions": ["Image under CC BY-SA 4.0"],
+            "URLs": ["https://en.wikipedia.org/wiki/Astrup_Fearnley_Museum"]
+          },
+          {
+            "id": "00015",
+            "type": "Modern & Unique",
+            "lon": "10.7586",
+            "lat": "59.9236",
+            "name": "Mathallen Oslo",
+            "description": "Food hall with 30+ vendors selling Norwegian and international delicacies.",
+            "more": "Highlights include brunost (brown cheese), seafood, and craft beer.",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Mathallen_Oslo.jpg/640px-Mathallen_Oslo.jpg"],
+            "attributions": ["Image under CC BY-SA 4.0"],
+            "URLs": ["https://en.wikipedia.org/wiki/Mathallen_Oslo"]
+          }
+        ]
+      }
+    }
+}
